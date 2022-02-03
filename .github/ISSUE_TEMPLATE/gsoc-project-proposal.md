@@ -1,6 +1,6 @@
 ---
 name: GSoC Project Proposal
-about: This template outlines the needed information for a GSoC project proposal.
+about: Use this template for GSoC project proposals.
 title: Project title
 labels: GSoC
 assignees: ''
