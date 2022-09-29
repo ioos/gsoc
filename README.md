@@ -17,3 +17,8 @@ The US IOOS Organization has submitted an application to GSoC 2021.  IOOS mainta
 The [IOOS Data Management and Cyberinfrastructure](https://ioos.noaa.gov/project/dmac/) (DMAC) community is a coalition of scientific software developers focused on developing and supporting software used within our community and also by other NOAA and US Federal Government offices and international organizations to deliver earth science data to their users.  The DMAC community is an active coalition of both public and private participants contributing to this effort.
 
 We host annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), [code sprints](https://www.glos.us/code-sprint/) (2019, 2022 - planned), monthly technical webinars, and maintain virtual communications through our ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list and other platforms such as Slack and of course GitHub.
+
+## Past Projects
+
+- [GSoC'21 Projects](https://github.com/ioos/gsoc/blob/main/2021/project-results.md)
+- [GSoC'22 Projects](https://github.com/ioos/gsoc/blob/main/2022/project-results.md)
