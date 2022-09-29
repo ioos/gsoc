@@ -10,13 +10,13 @@ Three projects are completed:
 - [pyobis](https://ayushanand18.github.io/GSoC_design_documents/): Making ocean biodiversity data easily accessible with python.
 
 And one extended until November 2022 thanks to GSoC new flexible policy:
- 
+
 - [erddapy](https://github.com/ioos/erddapy/issues?q=label%3AGSoC22+is%3Aclosed): Refactoring into separate core and object layers.
 
 Important highlights:
 
 - Before GSoC 2022 the `pyobis` project was abandoned and the last available version did not work with the new OBIS API. Thanks to GSoC contributor Ayush Anand, OBIS users can once again rely on is Python library to query to the OBIS database.
--  The `kerchunk` library is a middle ground between converting data to a cloud optimized format while still keeping its original form. Peter Marsh created a [working demo](https://nbviewer.org/gist/peterm790/a977137f5335bb74a8038a27841317b0) for the [LiveOcean model](https://faculty.washington.edu/pmacc/LO/LiveOcean.html) within the [NANOOS region](http://www.nanoos.org/). In his work Peter improved documentation, optimized the code for compatibility with both grib2 and netcdf formats, and tested a complete end-to-end workflow to obtain cloud optimzed data based on the kerchunk approach. 
+-  The `kerchunk` library is a middle ground between converting data to a cloud optimized format while still keeping its original form. Peter Marsh created a [working demo](https://nbviewer.org/gist/peterm790/a977137f5335bb74a8038a27841317b0) for the [LiveOcean model](https://faculty.washington.edu/pmacc/LO/LiveOcean.html) within the [NANOOS region](http://www.nanoos.org/). In his work Peter improved documentation, optimized the code for compatibility with both grib2 and netcdf formats, and tested a complete end-to-end workflow to obtain cloud optimzed data based on the kerchunk approach.
 -  `echoshader` is part of the `echopype` ecosystem and aims to be a visualization library for ocean sonar sound data. Dingrui Lei's GSoC project started that effort and implemented the first visualization and data exploration tools for these kind of data.
 -  `erddapy` is a Python client for the [ERDDAP server](https://coastwatch.pfeg.noaa.gov/erddap/index.html) RESTful API. The library was showing signs of age and was built on top of functions and builders that no longer fitted most user's needs. Vini Salazar is working re-factoring `erddapy` and modernizing the codebase in order to make it both more user friendly and easier to maintain in the long term.
 
@@ -42,7 +42,7 @@ Mentors: Valentina Staneva, Wu-Jung Lee, Brandon Reyes, Don Setiawan, and Emilio
 
 The Kerchunk package provides a means to access legacy geospatial datasets, such as GRIB2, in a cloud performant manor by creating a reference file which maps to variables within the datasets, this allows direct access to many data chunks within various files in one go, reducing overall latency and allowing easy parallel access. At present the scan_grib module within Kerchunk does not work when considering GFS operational data as GRIB data from different institutions can differ. I propose adapting the existing module to successfully access operational GFS forecast data before providing an example of the utility of Kerchunk to create a dictionary of lazy dimensional arrays containing all GFS variables.
 
-Contributor: Peter Marsh 
+Contributor: Peter Marsh
 Mentors: Rich Signell and Martin Durant
 
 ## Pyobis
