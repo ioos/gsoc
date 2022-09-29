@@ -13,7 +13,7 @@ Project Description:
 
 _Brief summary of the intent of the project._
 
-Expected Outcomes: 
+Expected Outcomes:
 
 _What do you expect to get out of the project_
 
