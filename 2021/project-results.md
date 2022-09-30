@@ -1,9 +1,9 @@
-# GSoC final write-up
+# GSoC 2021 Results
 
 U.S. IOOS is participating for the first time as a mentoring organization for Google’s Summer of Code 2021.
 Google granted IOOS three slots and the projects ranged from machine learning, new features in IOOS software, and documentation translation capabilities.
 
-Three projects are completed:
+Completed projects:
 
 - [erddapy](https://gist.github.com/callumrollo/ee28f7e1863d30162bdb041156314543): Implemented griddap and issued gliderpy first release.
 - [ERDDAP](https://q1zeng.github.io/): Translated ERDDAP User Interface Into Different Languages
@@ -11,9 +11,9 @@ Three projects are completed:
 
 Important highlights:
 
-- `errdapy` long awaited feature, griddap, was implemented thanks to GSoC participant Callum. He also expanded his contribution to the `gliderpy` project, preparing it for a first stable release.
-- Lohith Munakala also tackled two separated problems. He created a framework to identify sea floor feature with machine learning and converted the old IOOS Data Demo Center into a Jupyter Book.
-- Last but not least we also had Qi Zeng who tackled an extremely important problem of implement translation support for the ERDDAP server. We can now deploy and browsers will load the correct language identified based on locale.
+- `errdapy` long awaited feature, griddap, was implemented thanks to GSoC participant Callum Rollo. He also expanded his contribution to the `gliderpy` project, preparing it for a first stable release.
+- Lohith Munakala tackled two separate problems. He created a machine learning framework to identify sea floor features in underwater imagery and converted the IOOS Data Demo Center project into a the Jupyter Book format.
+- Last but not least, Qi Zeng tackled an extremely important problem to implement language translation support for the ERDDAP server. With this new feature released in [ERDDAP v2.15}(https://coastwatch.pfeg.noaa.gov/erddap/download/changes.html#changes2.15), for ERDDAP servers that enable translation, browsers will load the correct language based on selected locale.
 
 You can find out more about some of the project's results on the participants' blog posts:
 
