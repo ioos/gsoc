@@ -1,19 +1,18 @@
 # GSoC 2021 Results
 
-U.S. IOOS is participating for the first time as a mentoring organization for Google’s Summer of Code 2021.
-Google granted IOOS three slots and the projects ranged from machine learning, new features in IOOS software, and documentation translation capabilities.
+U.S. IOOS is participating for the first time as a mentoring organization for Google’s Summer of Code 2021. Google granted IOOS three slots for 2021 and the selected projects ranged from machine learning, new features in IOOS software, to website user interface language translation capabilities.
 
 Completed projects:
 
 - [erddapy](https://gist.github.com/callumrollo/ee28f7e1863d30162bdb041156314543): Implemented griddap and issued gliderpy first release.
 - [ERDDAP](https://q1zeng.github.io/): Translated ERDDAP User Interface Into Different Languages
-- [SeaFloor Sampling and IOOS Code Lab](https://lohithmunakala.medium.com/seafloor-sampling-and-data-demo-center-jupyter-book-migration-gsoc21-ioos-a9930abc4c42): Hybrid project that worked on identifying sea floor features with machine learning and implemented a jupyter-book for the IOOS Code Lab page examples.
+- [SeaFloor Sampling and IOOS Code Lab](https://lohithmunakala.medium.com/seafloor-sampling-and-data-demo-center-jupyter-book-migration-gsoc21-ioos-a9930abc4c42): Hybrid project that worked on identifying sea floor features with machine learning and implemented a Jupyter Book for the IOOS Code Lab site examples.
 
 Important highlights:
 
-- `errdapy` long awaited feature, griddap, was implemented thanks to GSoC participant Callum Rollo. He also expanded his contribution to the `gliderpy` project, preparing it for a first stable release.
-- Lohith Munakala tackled two separate problems. He created a machine learning framework to identify sea floor features in underwater imagery and converted the IOOS Data Demo Center project into a the Jupyter Book format.
-- Last but not least, Qi Zeng tackled an extremely important problem to implement language translation support for the ERDDAP server. With this new feature released in [ERDDAP v2.15}(https://coastwatch.pfeg.noaa.gov/erddap/download/changes.html#changes2.15), for ERDDAP servers that enable translation, browsers will load the correct language based on selected locale.
+- [`errdapy`](https://ioos.github.io/erddapy/)'s long awaited feature, griddap, was implemented thanks to GSoC participant Callum Rollo. He also expanded his contribution to the [`gliderpy`](https://github.com/ioos/gliderpy) project, preparing it for a first stable release.
+- Lohith Munakala tackled two separate problems. He created a [machine learning framework](https://github.com/ioos/seafloor-sampling-ml) to identify sea floor features in underwater imagery and also converted the IOOS Data Demo Center project into the Jupyter Book format, rebranding it as the [IOOS Code Lab](https://ioos.github.io/ioos_code_lab).
+- Last but not least, Qi Zeng tackled an extremely important problem to implement language translation support for the ERDDAP server. With this new feature released in [ERDDAP v2.15](https://coastwatch.pfeg.noaa.gov/erddap/download/changes.html#changes2.15), for ERDDAP servers that enable translation, browsers will load the correct language based on selected locale.
 
 You can find out more about some of the project's results on the participants' blog posts:
 
@@ -22,9 +21,9 @@ You can find out more about some of the project's results on the participants' b
 
 # Project Details
 
-More information about each project is also available on the [IOOS organization page](https://summerofcode.withgoogle.com/archive/2021/organizations) on the Google Summer of Code Website.
+More information about each project is also available on the [IOOS organization page](https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168) on the Google Summer of Code website.
 
-## erdappy-griddap
+## erdappy-griddap: Accessing gridded oceanographic data in near real time
 
 This proposal will add griddap functionality to the erddapy package and simplify the API. Support for griddap will enable near real time access to gridded datasets such as climate models and weather forecasts via a simple Python API. This access will benefit oceanographers, search and rescue teams and the maritime industry at large. Additional tasks include enabling high level, simplified queries for easy access and improving the gliderpy package to make swathes of high resolution ocean glider data more readily available.
 
