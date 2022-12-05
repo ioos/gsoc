@@ -3,14 +3,11 @@
 U.S. IOOS is participating for the second time as a mentoring organization for Google’s Summer of Code.
 For the 2022 GSoC edition there are four new projects ranging from data visualization, data accessibility, data pre-processing for cloud optimization, and code re-factorization.
 
-Three projects are completed:
+The projects were:
 
 - [echoshader](https://github.com/OSOceanAcoustics/echoshader/wiki/Google-Summer-of-Code-2022): Interactive visualization of ocean sonar data.
 - [kerchunk](https://github.com/fsspec/GSoC-kechunk-2022/blob/main/GSOC_monitor.md) - interfacing WRF forecast grib2 data to zarray.
 - [pyobis](https://ayushanand18.github.io/GSoC_design_documents/): Making ocean biodiversity data easily accessible with python.
-
-And one extended until November 2022 thanks to GSoC's new flexible project timeline policy:
-
 - [erddapy](https://github.com/ioos/erddapy/issues?q=label%3AGSoC22+is%3Aclosed): Refactoring into separate core and object layers.
 
 Important highlights:
@@ -26,8 +23,11 @@ You can find out more about each project's results on the participants' blog pos
 1. https://medium.com/pangeo/accessing-netcdf-and-grib-file-collections-as-cloud-native-virtual-datasets-using-kerchunk-625a2d0a9191
 1. https://ayushanand18.github.io/GSoC_design_documents/
 1. https://medium.com/@viniws/my-experience-as-a-google-summer-of-code-intern-mid-project-update-cd9ea9a40130
+1. https://hackmd.io/WEf4iu68Scq9bzz7dR7RqQ
+
 
 # Project Details
+
 More information about each project is also available on the [IOOS organization page](https://summerofcode.withgoogle.com/programs/2022/organizations/ioos) on the Google Summer of Code Website.
 
 
