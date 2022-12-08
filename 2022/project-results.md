@@ -33,12 +33,16 @@ More information about each project is also available on the [IOOS organization 
 
 ## Echoshader
 
+![image](https://user-images.githubusercontent.com/8480023/206277223-21483a2a-bc23-4a3b-8dfb-d73d52e4ef6c.png)
+
 Echoshader, an open source project, aims to enhance the ability to interactively visualize large amounts of cloud-based data to accelerate the data exploration and discovery process. Ocean sonar data is generated from echopype, which handles the normalization, preprocessing and organization of echo data. Echoshader will be developed in parallel with the ongoing development of echopype. As a participant of GSoC, I will develop the main APIs of echoshader based on the HoloViz suite of tools, test configuration for using echoshader widgets in Panel dashboards, and create Jupyter notebooks to demo use of the combination of tools. The main technology stacks used are Hvplot, Panel, fogrib2 data to zarraylium and PyVista.
 
 Contributor: Dingrui Lei
 Mentors: Valentina Staneva, Wu-Jung Lee, Brandon Reyes, Don Setiawan, and Emilio Mayorga
 
 ## Kerchunk
+
+![image](https://user-images.githubusercontent.com/8480023/206277335-31f01f24-fe17-474c-8310-4f73e06a5e31.png)
 
 The Kerchunk package provides a means to access legacy geospatial datasets, such as GRIB2, in a cloud performant manor by creating a reference file which maps to variables within the datasets, this allows direct access to many data chunks within various files in one go, reducing overall latency and allowing easy parallel access. At present the scan_grib module within Kerchunk does not work when considering GFS operational data as GRIB data from different institutions can differ. I propose adapting the existing module to successfully access operational GFS forecast data before providing an example of the utility of Kerchunk to create a dictionary of lazy dimensional arrays containing all GFS variables.
 
@@ -47,12 +51,16 @@ Mentors: Rich Signell and Martin Durant
 
 ## Pyobis
 
+![image](https://user-images.githubusercontent.com/8480023/206277404-25db0fe7-ef32-4823-9bba-cc19a0af0111.png)
+
 The goal of the project is to modify the pyobis python package to support the new OBIS API v3. This project also aims to improve tests coverage, diversify example usage, analyze and visualize fetched data from the updated package, and push the new version to PyPI. The pyobis package is really powerful and can fetch huge ocean biodiversity data through the OBIS API. It is interesting to note that OBIS also holds data for species even dating back to around 1078 AD, which makes pyobis even more essential to be maintained. As an extended objective, I will also create a high-level module inside pyobis package that can allow users to visualize data directly.
 
 Contributor: Ayush Anand
 Mentors: Tylar Murray, Mathew Biddle, and Filipe Fernandes
 
 ## Erddapy
+
+![image](https://user-images.githubusercontent.com/8480023/206277452-9e1f6210-b102-4a0d-8eea-d7e46b34fa46.png)
 
 The erddapy package provides a Python interface to the ERDDAP data server API. Currently, most of erddapy's functionality is concentrated into a single class, and the URL building features are implemented in that class along with the data transformation methods that process server responses into Python objects, such as Pandas DataFrames. This project proposes to separate erddapy into core and object (or opinionated) layers. The former will hold the URL building and data transformation functionality, which will be reused by the rest of the library. The latter layer will provide high-level objects that will support a functional API that does not depend on the state of the underlying object (which is the case for the current version of erddapy). This functional API will provide cleaner iterative usage when querying multiple servers and datasets, and new classes implemented in the object layer will support serialization so that they can be pickled and passed on to other processes or machines. To execute this project, I delineate two separate aims: refactoring the URL building and data transformation functionality into a new module containing minimal, standalone functions and reusing those functions in the existing primary class; and implementing an additional layer containing the high-level objects that will provide the basis for the functional API. Overall, this will greatly improve the flexibility and scalability of the package, and will help support its wide spectrum of users.
 
