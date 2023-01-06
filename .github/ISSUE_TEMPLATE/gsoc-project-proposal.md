@@ -28,3 +28,8 @@ _Identify the difficulty of the project._
 Mentor(s):
 
 _Include mentor names and GitHub handles as a comma separated list._
+
+
+- [ ]  Update Labels front matter/header to use GSoC23
+- [ ]  Include estimate project duration (175 or 350?)
+- [ ]  Any other info we need to collect?
