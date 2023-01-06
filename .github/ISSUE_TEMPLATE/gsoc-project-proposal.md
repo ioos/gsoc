@@ -11,8 +11,9 @@ assignees: ''
 
 _**For reference, the GSoC [project ideas guidance](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list) states:**_ 
 
-_**Each project on the Ideas list should include: a) a project title/description b) more detailed description of the project (2-5 sentences) c) expected outcomes d) skills required/preferred e) possible mentors f) expected size of project (175 or 350 hour). And if possible, an easy, medium or hard rating of each project.**_
+* _**Each project on the Ideas list should include: a) a project title/description b) more detailed description of the project (2-5 sentences) c) expected outcomes d) skills required/preferred e) possible mentors f) expected size of project (175 or 350 hour). And if possible, an easy, medium or hard rating of each project.**_
 
+_**See [these past GSoC project ideas](https://github.com/ioos/gsoc/issues?q=is%3Aissue+is%3Aclosed+label%3AGSoC%2CGSoC21%2CGSoC22+) for good examples to follow.  Each of these projects received student applications, were awarded GSoC slots, and were completed successfully.**_  
 
 
 #### Project Description:
