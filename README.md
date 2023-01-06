@@ -2,6 +2,18 @@
 
 <img src="img/GSoC-logo-horizontal.svg" alt="Google Summer of Code logo" width="300" style="padding-right: 50px; vertical-align: middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/IOOS_Emblem_Tertiary_A_RGB.jpg" alt="IOOS logo" width="300" style="vertical-align: middle">
 
+
+### **Announcement: GSoC 2023 Project Ideas Needed!**
+
+[**Potential 2023 Mentors: submit your project idea here**](https://github.com/ioos/gsoc/issues/new?assignees=&labels=GSoC23%2C+project+idea&template=gsoc-project-proposal.md&title=Project+title)
+
+IOOS is looking for new project ideas for [GSoC 2023](https://summerofcode.withgoogle.com/programs/2023)!  Organization applications are due **February 7, 2023**.  
+
+If you are involved in an open source software project with a connection to IOOS and would like to mentor a student during the GSoC 2023 program, please submit your project idea as an issue in this repo by using the issue template linked above.
+
+If you have questions about the GSoC mentoring experience, you can reach out to any of IOOS' former GSoC mentors for their input.  See [this list](https://github.com/ioos/gsoc/issues?q=is%3Aissue+is%3Aclosed+label%3AGSoC%2CGSoC21%2CGSoC22+) of prior IOOS GSoC projects for a quick way to find some of our former mentors.
+
+
 ### U.S. IOOS&reg; - Eyes on the Ocean, Coasts, and Great Lakes&trade;
 
 #### Our Mission
@@ -16,12 +28,12 @@ We host annual DMAC [data management meetings](https://ioos.noaa.gov/project/dma
 For more information about IOOS visit: [https://ioos.noaa.gov](https://ioos.noaa.gov).
 
 ## U.S. IOOS and Google Summer of Code
-IOOS has participated as a GSoC mentoring organization since 2021.
+IOOS has participated as a GSoC mentoring organization since [GSoC 2021](https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168).
 
-IOOS' GSoC 2022 project ideas list: https://github.com/ioos/gsoc/blob/master/2022/ideas-list.md
+For reference, IOOS' GSoC 2022 project ideas list can be found here: https://github.com/ioos/gsoc/blob/master/2022/ideas-list.md
 
 
-## Past Projects
+## Past IOOS GSoC Projects
 
 - [GSoC'21 Projects](https://github.com/ioos/gsoc/blob/main/2021/project-results.md)
 - [GSoC'22 Projects](https://github.com/ioos/gsoc/blob/main/2022/project-results.md)
