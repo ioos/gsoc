@@ -9,7 +9,7 @@ IOOS is looking for new project ideas for [GSoC 2024](https://summerofcode.withg
 
 If you are interested in mentoring a student during this year's GSoC program, please submit your project idea below:
 
-[**2024 Mentors: submit your project idea here**](https://github.com/ioos/gsoc/issues/new?assignees=&labels=GSoC24%2C+project+idea&template=gsoc-project-proposal.md&title=Project+title)
+[**2024 Mentors: submit your project idea here**](https://github.com/ioos/gsoc/issues/new/choose)
 
 Questions about the GSoC mentoring experience can go to any of IOOS' former GSoC mentors - see [Past IOOS GSoC Projects](#Past-IOOS-GSoC-Projects) for all of our former projects, students and mentors, or posted to the ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list.
 
