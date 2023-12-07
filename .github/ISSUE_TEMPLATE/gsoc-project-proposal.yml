@@ -28,8 +28,8 @@ body:
     id: mentors
     attributes:
       label: Mentor(s)
-      description: Include mentor names and GitHub handles as comma separated list:
-      placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas), ...
+      description: Include mentor names and GitHub handles as comma separated list
+      placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas)
     validations:
       required: false
   - type: input
