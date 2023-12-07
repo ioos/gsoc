@@ -1,0 +1,55 @@
+name: GSoC Project Proposal
+description: Use this template for GSoC project proposals.
+title: "[GSoC Project Proposal]: "
+labels: ["GSoC23", "project idea"]
+body:
+  - type: input
+    id: description
+    attributes:
+      label: Project Description
+      description: Brief summary of the intent of the project, in approximately 2-5 sentences.  Include links to any existing code or resources or graphics if helpful in explaining the project or providing additional background.
+    validations:
+      required: false
+  - type: input
+    id: outcomes
+    attributes:
+      label: Expected Outcomes
+      description: What do you expect to get out of the project?
+    validations:
+      required: false
+  - type: input
+    id: skills
+    attributes:
+      label: Skills required
+      description: What types of skills does the prospective contributor need?  List of programing languages, software packages, or any other specific skills.
+    validations:
+      required: false
+  - type: input
+    id: mentors
+    attributes:
+      label: Mentor(s)
+      description: Include mentor names and GitHub handles as comma separated list
+      placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas)
+    validations:
+      required: false
+  - type: dropdown
+    id: size
+    attributes:
+      label: Expected Project Size
+      options: 
+        - 90
+        - 175
+        - 350
+    validations:
+      required: false
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: What is the difficulty of the project?
+      description: Identify the difficulty of the project (Easy, Medium, Hard).
+      options: 
+        - Novice
+        - Intermediate
+        - Expert
+    validations:
+      required: false
