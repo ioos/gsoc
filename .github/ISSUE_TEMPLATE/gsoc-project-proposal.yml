@@ -32,14 +32,6 @@ body:
       placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas)
     validations:
       required: false
-  - type: input
-    id: mentors
-    attributes:
-      label: Mentor(s)
-      description: Include mentor names and GitHub handles as comma separated list
-      placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas)
-    validations:
-      required: false
   - type: dropdown
     id: size
     attributes:
@@ -49,7 +41,7 @@ body:
         - 350
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: difficulty
     attributes:
       label: What is the difficulty of the project?
