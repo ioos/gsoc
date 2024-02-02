@@ -1,7 +1,7 @@
 name: GSoC Project Proposal
 description: Use this template for GSoC project proposals.
 title: "[GSoC Project Proposal]: "
-labels: ["GSoC23", "project idea"]
+labels: ["GSoC24", "project idea"]
 body:
   - type: input
     id: description
