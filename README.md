@@ -16,7 +16,7 @@ Questions about the GSoC mentoring experience can go to any of IOOS' former GSoC
 #### **Update:** Materials for IOOS' 2024 GSoC Organization Application
 
 - Project Ideas List: https://github.com/ioos/gsoc/blob/main/2024/ideas-list.md
-- Contributor Guidance (for students planning to apply):  https://github.com/ioos/gsoc/blob/main/2024/contributor-guidance.md
+- Contributor Guidance (for students planning to apply):  https://github.com/ioos/gsoc/blob/main/contributor-guidance.md
 
 **Note to students:** Google will announce accepted organizations on Feb 21, 2024, so we'll know more about our status at that time.  Hold off on contributing any ideas you might have until then.
 
@@ -36,9 +36,9 @@ The [IOOS Data Management and Cyberinfrastructure](https://ioos.noaa.gov/project
 
 #### Community Events
 
-IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), code sprints ([2019](https://www.glos.us/code-sprint/), [2022](https://ioos.github.io/ioos-code-sprint/)), monthly technical webinars, and maintains virtual communications through our ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list and other platforms such as Slack and GitHub.
+IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), code sprints ([2019](https://www.glos.us/code-sprint/), [2022](https://ioos.github.io/ioos-code-sprint/2022/)), monthly technical webinars, and maintains virtual communications through our ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list and other platforms such as Slack and GitHub.
 
-**2024 IOOS Code Sprint - Washington, DC:** IOOS will be hosting a hypbrid in-person/virtual Code Sprint in Washington, DC (May 21 - 23, 2024), providing a great opportunity for mentors and GSoC students to either have some face time to work together in person, if feasible, or virtually on kick-starting their projects during the community bonding period.  Some travel grants/reimbursements will be available for eligible participants . Mark your calendars!
+**2024 IOOS Code Sprint - Washington, DC:** IOOS will be hosting a hybrid in-person/virtual [Code Sprint in Washington, DC (May 21 - 23, 2024)](https://ioos.github.io/ioos-code-sprint/2024/), providing a great opportunity for mentors and GSoC students to either have some face time to work together in person, if feasible, or virtually on kick-starting their projects during the community bonding period.  Some travel grants/reimbursements will be available for eligible participants. Mark your calendars!
 
 
 ### IOOS and Google Summer of Code
