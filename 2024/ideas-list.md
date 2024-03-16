@@ -14,6 +14,6 @@ Deadline for mentoring organization application: Feb 6, 2024.
 | [ioos_qc: QA/QC for glider data](https://github.com/ioos/ioos_qc) | ioos_qc is the canonical implementation of the [QARTOD manuals](https://repository.oceanbestpractices.org/handle/11329/336) for ocean QA/QC best practices. This project ideas are to: create QA/QC examples, write documentation for its use, and implement missing QA/QC checks for glider data | [ioos/gsoc#45](https://github.com/ioos/gsoc/issues/55) | 350 hours |
 | [OCSMesh improvement](https://github.com/noaa-ocs-modeling/OCSmesh) | OCSMesh is a Python package for processing DEM data into georeferenced unstructured meshes using the [jigsaw-python](https://github.com/dengwirda/jigsaw-python) library. | [ioos/gsoc#58](https://github.com/ioos/gsoc/issues/58) | 175 hours |
 | [Searvey improvement](https://github.com/oceanmodeling/searvey) | Searvey aims to provide the following functionality: Unified catalogue of observational data including near real time (WIP), Real time data analysis/clean up to facilitate comparison with numerical models (WIP), On demand data retrieval from multiple sources | [ioos/gsoc#59](https://github.com/ioos/gsoc/issues/59) | 175 hours |
-
+| [Model subsetting tool]() | This project enhances preliminary code for subsetting large unstructured-grid numerical model outputs on cloud platforms, making forecast data more accessible through widely used open-source Python libraries.  | [ioos/gsoc#57](https://github.com/ioos/gsoc/issues/57) | 175 hours |
 
 
