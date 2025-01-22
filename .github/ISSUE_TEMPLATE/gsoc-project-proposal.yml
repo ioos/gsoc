@@ -7,21 +7,28 @@ body:
     id: description
     attributes:
       label: Project Description
-      description: Brief summary of the intent of the project, in approximately 2-5 sentences.  Include links to any existing code or resources or graphics if helpful in explaining the project or providing additional background.
+      description: Summary of the proposed project - what the student/contributor is expected to accomplish during the GSoC coding period.  Include any background materials such as links to any existing code, documentation including references, graphics/diagrams, or any other materials that are helpful in explaining the project to contributors/applicants.  Provide as much detail as possible for your description, keeping in mind that you can add more later by editing the resulting GitHub issue directly.  **(5 sentences for initial project descriptions, with the more detail the better added prior to the Org application deadline in ~ early Feb)**  
     validations:
-      required: false
+      required: true  
   - type: input
     id: outcomes
     attributes:
       label: Expected Outcomes
-      description: What do you expect to get out of the project?
+      description: What do you expect to get out of the project when completed?  How is this expected to improve the software, tool, or package?  **(2 - 5 sentences)**
     validations:
-      required: false
+      required: true
   - type: input
     id: skills
     attributes:
-      label: Skills required
-      description: What types of skills does the prospective contributor need?  List of programing languages, software packages, or any other specific skills.
+      label: Skills Required
+      description: What types of skills does the prospective contributor need to complete this project?  List of programing languages, software packages, or any other specific skills a contributor should have to have a good chance of success.  
+    validations:
+      required: true
+  - type: input
+    id: existing-issues
+    attributes:
+      label: Existing Issue Links   
+      description: Optionally, include links to any existing issues in your project's code repository that give additional context to the project or that both you and potential applicants can use as a basis to evaluate their suitability for the project.  Directing applicants to existing, open issues that are related to the project, if available, can be a good way to evaluate their skills during the student application period.  Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what you decide to include here.  
     validations:
       required: false
   - type: input
@@ -29,24 +36,25 @@ body:
     attributes:
       label: Mentor(s)
       description: Include mentor names and GitHub handles as comma separated list
-      placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas)
+      placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas), Mentor Name 2 (@someothergithubhandlethatsurelynoonealreadyhas)
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: size
     attributes:
       label: Expected Project Size
+      description: GSoC projects can be one of three different sizes depending on your estimation of the amount of time it should take the student to complete.  Keep in mind that the project size will be the maximum number of hours the contributor will be compensated for for the project, and also will impact the amount of time you during the coding period you commit to mentor for, generally.  If uncertain, select a larger size.  The student can also suggest a different size as part of their application.  
       options: 
         - 90
         - 175
         - 350
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: difficulty
     attributes:
-      label: What is the difficulty of the project?
-      description: Identify the difficulty of the project (Easy, Medium, Hard).
+      label: Project Difficulty
+      description: Specify the expected difficulty of the project (Novice, Intermediate, Expert).
       options: 
         - Novice
         - Intermediate
