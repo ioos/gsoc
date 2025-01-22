@@ -1,7 +1,7 @@
 # GSoC 2024 Results
 
 U.S. IOOS is participating for the third time as a mentoring organization for Google’s Summer of Code.
-For the 2024 GSoC edition there are four new projects ranging from data visualization, data accessibility, data pre-processing for cloud optimization, and code re-factorization.
+For the 2024 GSoC edition, we welcomed six projects in a variety of areas including data visualization, data accessibility, data quality control, cloud optimization for scientific data, and optimization of administration for data services.
 
 The projects were:
 
@@ -18,6 +18,7 @@ Important highlights:
 - The GSoC'24 ERDDAP project was a major improvement to the XML parser which is a core part of defining how datasets are loaded.
 - Gliderpy's plotting interface was completely refactored, making it more flexible and much easier to build on.
 - `ioos_qc` support for glider QA/QC was added during GSoC edition. The final form is still under work, but this project help start the discussion on how to properly implement them.
+- Support for optimized indexing of GRIB data was added to the Kerchunk library, along with usage examples and documentation.
 
 
 You can find out more about each project's results on the participants' blog posts:
@@ -32,4 +33,4 @@ You can find out more about each project's results on the participants' blog pos
 
 # Project Details
 
-More information about each project is also available on the [IOOS organization page](https://summerofcode.withgoogle.com/programs/2024/organizations/ioos) on the Google Summer of Code Website.
+More information about each project is also available on the [IOOS organization page](https://summerofcode.withgoogle.com/programs/2024/organizations/ioos) on the 2024 Google Summer of Code website.
