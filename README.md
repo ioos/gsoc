@@ -8,7 +8,7 @@ IOOS is looking for new project ideas for [GSoC 2025](https://summerofcode.withg
 
 If you are interested in mentoring a student during this year's GSoC program, please submit your project idea below:
 
-[**2025 Mentors: submit your project idea here**](https://github.com/ioos/gsoc/issues/new/choose)
+[**2025 Mentors: submit your project idea here**](https://github.com/ioos/gsoc/issues/new?template=gsoc-project-proposal.yml)
 
 Questions about the GSoC mentoring experience can go to any of IOOS' former GSoC mentors - see [Past IOOS GSoC Projects](#Past-IOOS-GSoC-Projects) for all of our former projects, students and mentors, or posted to the ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list.
 
@@ -36,9 +36,7 @@ The [IOOS Data Management and Cyberinfrastructure](https://ioos.noaa.gov/project
 
 #### Community Events
 
-IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), code sprints ([2019](https://www.glos.us/code-sprint/), [2022](https://ioos.github.io/ioos-code-sprint/2022/)), monthly technical webinars, and maintains virtual communications through our ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list and other platforms such as Slack and GitHub.
-
-**2024 IOOS Code Sprint - Washington, DC:** IOOS will be hosting a hybrid in-person/virtual [Code Sprint in Washington, DC (May 21 - 23, 2024)](https://ioos.github.io/ioos-code-sprint/2024/), providing a great opportunity for mentors and GSoC students to either have some face time to work together in person, if feasible, or virtually on kick-starting their projects during the community bonding period.  Some travel grants/reimbursements will be available for eligible participants. Mark your calendars!
+IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), bi-annual code sprints ([2019](https://www.glos.us/code-sprint/), [2022](https://ioos.github.io/ioos-code-sprint/2022/), [2024](https://ioos.github.io/ioos-code-sprint/2024/)), monthly technical webinars, and maintains virtual communications through our ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list and other platforms such as [GitHub](https://github.com/ioos) and Slack.
 
 
 ### IOOS and Google Summer of Code
