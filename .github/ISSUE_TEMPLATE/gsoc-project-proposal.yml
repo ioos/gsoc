@@ -45,9 +45,9 @@ body:
       label: Expected Project Size
       description: GSoC projects can be one of three different sizes depending on your estimation of the amount of time it should take the student to complete.  Keep in mind that the project size will be the maximum number of hours the contributor will be compensated for for the project, and also will impact the amount of time you during the coding period you commit to mentor for, generally.  If uncertain, select a larger size.  The student can also suggest a different size as part of their application.  
       options: 
-        - 90
-        - 175
-        - 350
+        - 90 hours
+        - 175 hours
+        - 350 hours
     validations:
       required: true
   - type: dropdown
