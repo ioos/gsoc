@@ -7,7 +7,7 @@ body:
     id: description
     attributes:
       label: Project Description
-      description: Summary of the proposed project - what the student/contributor is expected to accomplish during the GSoC coding period.  Include any background materials such as links to any existing code, documentation including references, graphics/diagrams, or any other materials that are helpful in explaining the project to applicants.  Provide as much detail as possible for your description, keeping in mind that you can add more later by editing the resulting GitHub issue directly.  **(5 sentences for initial project descriptions, with the more detail the better added prior to the Org application deadline in ~ early Feb)**  
+      description: Summary of the proposed project - what the applicant is expected to accomplish during the GSoC coding period.  Include any background materials such as links to any existing code, documentation including references, graphics/diagrams, or any other materials that are helpful in explaining the project to applicants.  Provide as much detail as possible for your description, keeping in mind that you can add more later by editing the resulting GitHub issue directly.  **(5 sentences for initial project descriptions, with the more detail the better added prior to the Org application deadline in ~ early Feb)**  
     validations:
       required: true  
   - type: textarea
@@ -21,14 +21,14 @@ body:
     id: skills
     attributes:
       label: Skills Required
-      description: What types of skills does the prospective contributor need to complete this project?  List of programing languages, software packages, or any other specific skills a contributor should have to have a good chance of success.  
+      description: What types of skills does the applicant need to complete this project?  List of programing languages, software packages, or any other specific skills they should have to have a good chance of success.  
     validations:
       required: true
   - type: textarea
     id: additional-background
     attributes:
       label: Additional Background/Issues   
-      description: Include links to any existing issues in your code repositor(ies) that give context for the project or that might be used to evaluate an applicant's suitability for the proposed project.  Issues can also be created specifically to test applicants' relevant skills during the student application period.  Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.  
+      description: Include links to any existing issues in your code repositor(ies) that give context for the project or that might be used to evaluate an applicant's suitability for the proposed project.  Issues can also be created specifically to test applicants' relevant skills during the GSoC contributor application period.  Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.  
     validations:
       required: false
   - type: input
