@@ -10,16 +10,15 @@ If you are interested in mentoring a student during this year's GSoC program, pl
 
 [**2025 Mentors: submit your project idea here**](https://github.com/ioos/gsoc/issues/new?template=gsoc-project-proposal.yml)
 
-Questions about the GSoC mentoring experience can go to any of IOOS' former GSoC mentors - see [Past IOOS GSoC Projects](#Past-IOOS-GSoC-Projects) for all of our former projects, students and mentors, or posted to the ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list.
+Questions about the GSoC mentoring experience can go to any of IOOS' former GSoC mentors - see [IOOS and Google Summer of Code](#ioos-and-google-summer-of-code) for all of our former projects, students and mentors, or post to the ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list.
 
 
 #### **Update:** Materials for IOOS' 2025 GSoC Organization Application
 
-- Project Ideas List: https://github.com/ioos/gsoc/blob/main/2025/ideas-list.md
-- Contributor Guidance (for students planning to apply):  https://github.com/ioos/gsoc/blob/main/contributor-guidance.md
+- **Project Ideas List:** https://github.com/ioos/gsoc/blob/main/2025/ideas-list.md
+- **Contributor Guidance** (for students planning to apply):  https://github.com/ioos/gsoc/blob/main/contributor-guidance.md
 
-**Note to students:** Google will announce accepted organizations on Feb 27, 2025, so we'll know more about our status at that time.  Hold off on contributing any ideas you might have until then.
-
+**Note to students:** Google will announce accepted organizations on Feb 27, 2025, so we'll know more about our status at that time.  Hold off on contributing any ideas you might have until then.  
 
 ### U.S. IOOS&reg; - Eyes on the Ocean, Coasts, and Great Lakes&trade;
 
@@ -49,3 +48,12 @@ IOOS has previously participated as a GSoC mentoring organization, with many suc
 | **2022** | [2022 IOOS GSoC Organization](https://summerofcode.withgoogle.com/programs/2022/organizations/ioos) | [2022 Project Results](https://github.com/ioos/gsoc/blob/main/2022/project-results.md) | [2022 Project Ideas](https://github.com/ioos/gsoc/blob/main/2022/ideas-list.md)
 | **2021** | [2021 IOOS GSoC Organization](https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168) | [2021 Project Results](https://github.com/ioos/gsoc/blob/main/2021/project-results.md) | [2021 Project Ideas](https://github.com/ioos/gsoc/blob/main/2021/ideas-list.md)
 
+#### Guidance for Potential IOOS GSoC Mentors
+
+*Some tips from IOOS for how to write a good GSoC project idea*
+
+The most successful GSoC project ideas involve ***previously-existing, open source software packages*** that might benefit from the addition of a new feature, capability or related application or tool, resolving a thorny bug that you don’t quite have time to address yourself as a package maintainer, or the addition of use-case examples that involve developing and publishing new code (e.g. Jupyter notebook usage demonstrations).  
+
+GSoC is not for getting assistance from a student (aka ‘contributor’) with writing documentation or for starting new projects without pre-existing open source code.  The program is designed to teach contributors about your software and project maintainer community (even if only yourself), how to write better code, and to learn about the process of open source software development itself.
+
+**Draft or initial project ideas are OK.**  Project ideas need to include basic background information (project description and purpose, expected skills, mentor names), but it’s a fairly easy lift to propose a new project.  If IOOS is accepted for the 2025 program, project ideas can be further refined or improved over the next month until the contributor application period begins in March. 
