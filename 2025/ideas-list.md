@@ -4,8 +4,29 @@ IOOS DMAC community's project ideas list for [Google Summer of Code 2025](https:
 
 Deadline for mentoring organization application: Feb 11, 2025.
 
-|**Project** |**Description**|**Proposed Project Idea**| **Hours** |
+| **Project Title** | **Project Idea Link** | **Description** | **Hours** |
 |------------|---------------|---------|-----------|
-| [some_project](the url) |  A description | [ioos/gsoc#_issuenumber_](https://github.com/ioos/gsoc/issues/_issuenumber) | project_size hours |
-
-
+| Build web UI versions using pyodide/pyscript for IOOS tools |  [ioos/gsoc#64](https://github.com/ioos/gsoc/issues/64) | The idea for this project is to build interfaces for ioos-qc and compliance-checker. A user should be able to load datasets, select data and the checks they want to apply. | 350 hours |
+| Prometheus server- graphs and monitoring for ERDDAP™ | [ioos/gsoc#72](https://github.com/ioos/gsoc/issues/72) | We recently started adding Prometheus metrics to ERDDAP™. The main goal of this project is to build an example Prometheus Server which can monitor one or more ERDDAP™ instances. | 175 hours |
+| Update ERDDAP™ page rendering to use a template framework | [ioos/gsoc#73](https://github.com/ioos/gsoc/issues/73) | The project is to migrate existing ERDDAP™ pages to use a templating framework. | 175 hours |
+| IOOS Cloud Sandbox - model validation and verification tools | [ioos/gsoc#84](https://github.com/ioos/gsoc/issues/84) | Add model validation and verification tools to https://github.com/ioos/Cloud-Sandbox.  Model validation and verification can include comparing model results to observations, previously validated data, other model data, etc. | 175 hours |
+| Code separation and build management for cloudflow | [ioos/gsoc#85](https://github.com/ioos/gsoc/issues/85) | Move Cloudflow's code to a poetry or uv build, with well-established and externalized dependency, and allow deployment to pypi. | 90 hours |
+| Increased logging for Cloudflow | [ioos/gsoc#86](https://github.com/ioos/gsoc/issues/86) | Having AWS logging increased within the codebase of cloudflow would greatly increase our capacity to support multiple users on the coastal sandbox. | 90 hours |
+| Combined DwCA/Croissant JSON-LD examples and tools | [ioos/gsoc#70](https://github.com/ioos/gsoc/issues/70) | The project would primarily consist of python tools to convert existing DwC metadata (in XML format) into JSON-LD format, example metadata for datasets that employ both standards, and a proof-of-concept pipeline that uses a combined DwC/Croissant-described dataset to train an AI model that predicts DwC categories from images | 175 hours |
+| NOAA trawl survey database | [ioos/gsoc#74](https://github.com/ioos/gsoc/issues/74) | The primary objective of this project is to create an accessible international database of transboundary marine survey data across the Northeast Pacific Ocean. | 175 hours |
+| Extend CrocoLake's available datasets | [ioos/gsoc#75](https://github.com/ioos/gsoc/issues/75) | This project consists in taking an existing dataset that is not yet included in CrocoLake and developing or adapting existing modules to convert it to CrocoLake's format. | 175 hours |
+| Autoval Improvement | [ioos/gsoc#76](https://github.com/ioos/gsoc/issues/76) | This project aims to enhance the capabilities of the Autoval package, which was developed for STOFS auto validation. STOFS stands for the Surge and Tide Operational Forecast System. | 175 hours |
+| OCSMesh Parallelization | [ioos/gsoc#77](https://github.com/ioos/gsoc/issues/77) | OCSMesh is a Python package that automates the generation of unstructured continuous (creek-to-ocean) meshes using the jigsaw-python library and triangles. The goal of this project is to increase OCSMesh’s efficiency by parallelizing the most time consuming steps, including DEM processing and jigsaw mesh generation. | 350 hours |
+| STOFS dashboard | [ioos/gsoc#78](https://github.com/ioos/gsoc/issues/78) | This project aims to advance and improve our STOFS event dashboard (github repo). This tool allows a user to select events (e.g., tropical cyclones, winter storms, major incidents in coastal areas) and compare STOFS model results with observations for those events. | 175 hours |
+| Probabilistic Surge Model Performance Assessment | [ioos/gsoc#79](https://github.com/ioos/gsoc/issues/79) | The storm surge modeling team at the Office of Coast Survey (OCS) have developed a framework called (ondemand-storm-workflow) to develop probabilistic hurricane storm surge models.  The goal of this project is to improve the post-prossessing and model evaluation capabilities of the workflow. | 175 hours |
+| Land Cover Integration for Parametric Hurricane Model (PaHM) | [ioos/gsoc#80](https://github.com/ioos/gsoc/issues/80) | This project aims to enhance the Generalized Asymmetric Holland Model (GAHM) within the Parametric Hurricane Modeling System (PaHM) framework by incorporating land cover effects on wind speeds during tropical cyclones. | 350 hours |
+| Expand the Google Test suite for the Fisheries Integrated Modeling System | [ioos/gsoc#81](https://github.com/ioos/gsoc/issues/81) | The Fisheries Integrated Modeling System (FIMS) is a framework to create statistical models, written in C++ and R, to assess the status of marine resources.  This project will add tests for uncovered code and suggest places where the tests, especially the Google tests, can be enhanced. | 175 hours |
+| Fix clang-tidy for the Fisheries Integrated Modeling System | [ioos/gsoc#82](https://github.com/ioos/gsoc/issues/82) | The project follows a modified Google style guide for the The Fisheries Integrated Modeling System (FIMS) C++ standards and relies on GitHub action using clang-tidy to ensure that code pushed to the GitHub repository conforms to these standards. | 90 hours |
+| Complete the integration of the logging system in the Fisheries Integrated Modeling System | [ioos/gsoc#83](https://github.com/ioos/gsoc/issues/83) | This project would take examples already in the source code for the The Fisheries Integrated Modeling System (FIMS) and use pattern matching to insert new logging entries into the code where it seems that they are needed. | 90 hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
+|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
