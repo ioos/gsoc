@@ -23,10 +23,3 @@ Deadline for mentoring organization application: Feb 11, 2025.
 | Expand the Google Test suite for the Fisheries Integrated Modeling System | [ioos/gsoc#81](https://github.com/ioos/gsoc/issues/81) | The Fisheries Integrated Modeling System (FIMS) is a framework to create statistical models, written in C++ and R, to assess the status of marine resources.  This project will add tests for uncovered code and suggest places where the tests, especially the Google tests, can be enhanced. | 175 hours |
 | Fix clang-tidy for the Fisheries Integrated Modeling System | [ioos/gsoc#82](https://github.com/ioos/gsoc/issues/82) | The project follows a modified Google style guide for the The Fisheries Integrated Modeling System (FIMS) C++ standards and relies on GitHub action using clang-tidy to ensure that code pushed to the GitHub repository conforms to these standards. | 90 hours |
 | Complete the integration of the logging system in the Fisheries Integrated Modeling System | [ioos/gsoc#83](https://github.com/ioos/gsoc/issues/83) | This project would take examples already in the source code for the The Fisheries Integrated Modeling System (FIMS) and use pattern matching to insert new logging entries into the code where it seems that they are needed. | 90 hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
-|  | [ioos/gsoc#](https://github.com/ioos/gsoc/issues/) |  | hours |
