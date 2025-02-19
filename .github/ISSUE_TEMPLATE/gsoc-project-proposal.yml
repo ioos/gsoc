@@ -39,6 +39,14 @@ body:
       placeholder: Mentor Name (@somegithubhandlethatsurelynoonealreadyhas), Mentor Name 2 (@someothergithubhandlethatsurelynoonealreadyhas)
     validations:
       required: true
+  - type: input
+    id: mentor-email
+    attributes:
+      label: Mentor Contact Email(s)
+      description: Include mentor email addresses as a comma-separated list (minimum of one email address applicants can contact with questions or to discuss their project proposal/ideas)
+      placeholder: gsoc.mentor@organization.org, gsoc.mentor2@secondaryorg.org
+    validations:
+      required: true
   - type: dropdown
     id: size
     attributes:
