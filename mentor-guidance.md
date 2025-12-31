@@ -6,13 +6,13 @@ If IOOS is included as a GSoC mentoring organization for the year (typically ann
 
 The process for GSoC follows this rough outline:
 1. **Mentor** submits a project idea to the IOOS Organization following the guidance here.
-1. IOOS reviews the list of project ideas to determine which will proceed.
+1. IOOS reviews the list of project ideas to determine how many slots to request.
 1. IOOS submits an application to Google with the list of proposed project ideas.
-1. Google reviews the organization application and notifies which ogranizations have been accepted and which projects within the organization have been accepted.
+1. Google reviews the organization application and notifies which ogranizations have been accepted and what number of slots the organization has been granted.
 1. If accepted, potential GSoC contributors will engage with the project ideas via GitHub issues.
 1. **Mentors** collaborate with potential contributors and evaluate their suitability for the project. See [evaluating contributors](#evaluating-project-contributors).
 1. Contributors submit applications to IOOS.
-1. IOOS ranks applications.
+1. IOOS ranks applications and submits them to Google.
 1. Google announces accepted projects.
 1. If accepted, coding runs for four months (typically May - August). **Mentors** support the project throughout the coding period.
 1. Contributors submit mid-term and final summaries of their work.
@@ -46,16 +46,19 @@ An ideal GSoC project idea should consider the following:
 We usually favor students that show regular communication with mentors during the application period and are able to demonstrate a clear understanding of the challenge proposed in the project idea within their proposal.  
 In some cases, mentors may include existing GitHub issues or other references within their code that students can use to both understand the software and, in some cases, demonstrate they have a good chance to succeed in addressing the problem presented in the project idea.  
 
+Engage with your GSoC contributor as early as possible. Integrate the GSoC contributor into your community and its communication channels. Make sure that communication with your GSoC contributor is frequent and regular.
+
 *These tips are here to help with a mentors evaluation of a contributor. They are not required.*
 
-- Have they communicated with the organization's mentors during the application period?
-- Have they communicated with the community?
-- Did they reference projects you coded WITH links to repos or provided code?
-- Did they provide methods for mentors to contact you?
-- Did they state which project you are applying for and why you believe you will be successful in completing the project?
-- Did they share your proposed project plan with mentor(s) prior to the close of the application period to give them the opportunity to give feedback or ask you questions?
-- Does their project plan clearly state the steps you will take during GSoC to address the goals or challenges in the proposed project? 
-- Did they create a pull request on the existing code?
-- Did they continue communication until accepted students are announced?
-- Do they have time for GSoC? This is a paid job! State that you have time in your motivation letter, and list other commitments!
-- Does their application describe what motivates them to work on this project, and, how their involvement in GSoC and this project in particular furthers their career goals?
+- [ ] Does their GitHub user account page have some information about them? Ideally a contributors account page would have an appropriate avatar and a short description about their interests. Avoid accounts created weeks or days before they start corresponding with mentors as these could be dubious contributors.
+- [ ] Have they communicated with the organization's mentors during the application period?
+- [ ] Have they communicated with the community?
+- [ ] Did they reference projects you coded WITH links to repos or provided code?
+- [ ] Did they provide methods for mentors to contact you?
+- [ ] Did they state which project you are applying for and why you believe you will be successful in completing the project?
+- [ ] Did they share your proposed project plan with mentor(s) prior to the close of the application period to give them the opportunity to give feedback or ask you questions?
+- [ ] Does their project plan clearly state the steps you will take during GSoC to address the goals or challenges in the proposed project? 
+- [ ] Did they create a pull request on the existing code?
+- [ ] Did they continue communication until accepted students are announced?
+- [ ] Do they have time for GSoC? This is a paid job! State that you have time in your motivation letter, and list other commitments!
+- [ ] Does their application describe what motivates them to work on this project, and, how their involvement in GSoC and this project in particular furthers their career goals?
