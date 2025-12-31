@@ -44,6 +44,7 @@ IOOS has previously participated as a GSoC mentoring organization, with many suc
 
 |**Year**|**GSoC Organization Pages**|**GSoC Student Project Results Pages**|  **Project Ideas List** |
 |------------|---------------|---------|---------|
+| **2025** | [2025 IOOS GSoC Organization](https://summerofcode.withgoogle.com/programs/2025/organizations/ioos) | [2025 Project Results](https://github.com/ioos/gsoc/blob/main/2025/project-results.md) | [2025 Project Ideas](https://github.com/ioos/gsoc/blob/main/2025/ideas-list.md)
 | **2024** | [2024 IOOS GSoC Organization](https://summerofcode.withgoogle.com/programs/2024/organizations/ioos) | [2024 Project Results](https://github.com/ioos/gsoc/blob/main/2024/project-results.md) | [2024 Project Ideas](https://github.com/ioos/gsoc/blob/main/2024/ideas-list.md)
 | **2022** | [2022 IOOS GSoC Organization](https://summerofcode.withgoogle.com/programs/2022/organizations/ioos) | [2022 Project Results](https://github.com/ioos/gsoc/blob/main/2022/project-results.md) | [2022 Project Ideas](https://github.com/ioos/gsoc/blob/main/2022/ideas-list.md)
 | **2021** | [2021 IOOS GSoC Organization](https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168) | [2021 Project Results](https://github.com/ioos/gsoc/blob/main/2021/project-results.md) | [2021 Project Ideas](https://github.com/ioos/gsoc/blob/main/2021/ideas-list.md)
