@@ -51,6 +51,8 @@ IOOS has previously participated as a GSoC mentoring organization, with many suc
 
 #### Guidance for Potential IOOS GSoC Mentors
 
+In Google's Summer of Code Guides there is a great article about [What Makes a Good Mentor?](https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor.html). If you are considering being a mentor for the IOOS ogranization, we highly recommend reviewing the materials there. This will ensure you are prepared for what is to come over the summer and can assist you in deciding on a contributor.
+
 *Some tips from IOOS for how to write a good GSoC project idea*
 
 The most successful GSoC project ideas involve ***previously-existing, open source software packages*** that might benefit from the addition of a new feature, capability or related application or tool, resolving a thorny bug that you don’t quite have time to address yourself as a package maintainer, or the addition of use-case examples that involve developing and publishing new code (e.g. Jupyter notebook usage demonstrations).  
