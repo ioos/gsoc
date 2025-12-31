@@ -53,7 +53,7 @@ Engage with your GSoC contributor as early as possible. Integrate the GSoC contr
 - [ ] Does their GitHub user account page have some information about them? Ideally a contributors account page would have an appropriate avatar and a short description about their interests. Avoid accounts created weeks or days before they start corresponding with mentors as these could be dubious contributors.
 - [ ] Have they communicated with the organization's mentors during the application period?
 - [ ] Have they communicated with the community?
-- [ ] Did they reference projects you coded WITH links to repos or provided code?
+- [ ] Did they reference projects you coded with links to repos or provided code?
 - [ ] Did they provide methods for mentors to contact you?
 - [ ] Did they state which project you are applying for and why you believe you will be successful in completing the project?
 - [ ] Did they share your proposed project plan with mentor(s) prior to the close of the application period to give them the opportunity to give feedback or ask you questions?
