@@ -1,7 +1,7 @@
 # GSoC 2025 Results
 
-U.S. IOOS is participating for the third time as a mentoring organization for Google’s Summer of Code.
-For the 2025 GSoC edition, we welcomed eight projects in a variety of areas including data visualization, data accessibility, data quality control, cloud optimization for scientific data, and optimization of administration for data services.
+U.S. IOOS participated for our fourth year as a mentoring organization for Google Summer of Code in 2025.  
+For this year's GSoC, we welcomed eight projects in a variety of areas including data visualization, data accessibility, data quality control, cloud optimization for scientific data, and optimization of administration for data services.
 
 The projects were:
 
