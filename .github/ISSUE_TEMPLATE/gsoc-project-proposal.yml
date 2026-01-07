@@ -59,7 +59,7 @@ body:
     attributes:
       label: Mentor GitHub Handle(s)
       description: Include mentor GitHub handles as comma separated list (in the same order as mentor names)
-      placeholder: @ioosmentorgithubhandle1, @ioosmentorgithubhandle2, ...
+      placeholder: e.g. @ioosmentorgithubhandle1, @ioosmentorgithubhandle2, ...
     validations:
       required: true
   - type: input
