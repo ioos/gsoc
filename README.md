@@ -6,14 +6,14 @@
 
 IOOS is looking for new project ideas for [GSoC 2026](https://summerofcode.withgoogle.com)!  GSoC Organization applications are due **February 3, 2026** - we need a strong list of projects and mentors by this deadline to reapply for this year.  If you are interested in mentoring a GSoC contributor this year, please submit your project idea below:
 
-[**Potential Mentors: Submit your 2026 project ideas here**](https://github.com/ioos/gsoc/issues/new?template=gsoc-project-proposal.yml)
+[**2026 Mentors: submit your project ideas here**](https://github.com/ioos/gsoc/issues/new?template=gsoc-project-proposal.yml)
 
 **IOOS GSoC Mentor Guide** (new for 2026): resources and references about the GSoC mentoring experience, IOOS' recommendations and best practices for mentors, and other helpful information are available in [IOOS' GSoC Mentor Guide](https://github.com/ioos/gsoc/blob/main/mentor-guidance.md).  
 
 Further questions about the GSoC mentoring experience can be directed to: 
-* former IOOS GSoC mentors - see [IOOS and Google Summer of Code](#ioos-and-google-summer-of-code) for a list of past projects, contributors and mentors,
-* IOOS' GSoC Org administrators [directly](mailto:micah.wengren@noaa.gov,mathew.biddle@noaa.gov,ocefpaf@gmail.com), or
-* the ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list (post your questions directly or search for past GSoC communications).
+* former IOOS mentors - see [IOOS and Google Summer of Code](#ioos-and-google-summer-of-code) for a list of past projects, contributors and mentors,
+* IOOS' GSoC Org [administrators](mailto:micah.wengren@noaa.gov,mathew.biddle@noaa.gov,ocefpaf@gmail.com), or
+* the [ioos_tech](https://groups.google.com/g/ioos_tech) mailing list (post your questions directly or search for past GSoC communications).
 
 
 ###  IOOS' 2026 GSoC Organization Application Materials
@@ -25,7 +25,7 @@ Further questions about the GSoC mentoring experience can be directed to:
 
 **Note to students:** Google will announce accepted organizations on Feb 19, 2026.  Please hold off on contributing any to any of our project ideas until we know whether we've been accepted or not for this year.  
 
-### U.S. IOOS&reg; - Eyes on the Ocean, Coasts, and Great Lakes&trade;
+### About U.S. IOOS&reg; - Eyes on the Ocean, Coasts, and Great Lakes&trade;
 
 #### Our Mission
 To produce, integrate, and communicate high quality ocean, coastal and Great Lakes information that meets the safety, economic, and stewardship needs of the Nation.
