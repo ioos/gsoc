@@ -5,14 +5,16 @@ For this year's GSoC, we welcomed eight projects in a variety of areas including
 
 The projects were:
 
-- [MQTT erddap](https://summerofcode.withgoogle.com/programs/2025/projects/5tZcgSox): MQTT Protocol Support for ERDDAP.
-- [pyscript](https://summerofcode.withgoogle.com/programs/2025/projects/YR0AVIjH): Build web UI versions for IOOS tools (ioos-qc and compliance checker).
-- [crocolake](https://summerofcode.withgoogle.com/programs/2025/projects/mdb8VnRw): Extending Crocolake’s available datasets.
-- [JTE erddap](https://summerofcode.withgoogle.com/programs/2025/projects/WFMQYGxF): Update ERDDAP™ page rendering to use a template framework.
-- [phytoclass](https://summerofcode.withgoogle.com/programs/2025/projects/KQGtg0Ge): Improving Usability and Features of the Phytoclass R Package and GUI for Phytoplankton Estimation.
-- [pyOBIS](https://summerofcode.withgoogle.com/programs/2025/projects/Af6KBBl2): pyOBIS for stakeholders.
-- [SurveyJoin](https://summerofcode.withgoogle.com/programs/2025/projects/ewtYg3ZW): Migrating SurveyJoin to a Relational Database for Scalability and Improved Performance.
-- [OCSMesh](https://summerofcode.withgoogle.com/programs/2025/projects/9mj1dDWr): OCSMesh Parallelization
+Proposal | Accepted Project | Description
+---------|---------|------------
+https://github.com/ioos/gsoc/issues/93 | [MQTT erddap](https://summerofcode.withgoogle.com/programs/2025/projects/5tZcgSox) | MQTT Protocol Support for ERDDAP. 
+https://github.com/ioos/gsoc/issues/64 | [pyscript](https://summerofcode.withgoogle.com/programs/2025/projects/YR0AVIjH) | Build web UI versions for IOOS tools (ioos-qc and compliance checker).
+https://github.com/ioos/gsoc/issues/75 | [crocolake](https://summerofcode.withgoogle.com/programs/2025/projects/mdb8VnRw) | Extending Crocolake’s available datasets.
+https://github.com/ioos/gsoc/issues/73 | [JTE erddap](https://summerofcode.withgoogle.com/programs/2025/projects/WFMQYGxF) | Update ERDDAP™ page rendering to use a template framework.
+https://github.com/ioos/gsoc/issues/90 | [phytoclass](https://summerofcode.withgoogle.com/programs/2025/projects/KQGtg0Ge) | Improving Usability and Features of the Phytoclass R Package and GUI for Phytoplankton Estimation.
+https://github.com/ioos/gsoc/issues/91 | [pyOBIS](https://summerofcode.withgoogle.com/programs/2025/projects/Af6KBBl2) | pyOBIS for stakeholders.
+https://github.com/ioos/gsoc/issues/74 | [SurveyJoin](https://summerofcode.withgoogle.com/programs/2025/projects/ewtYg3ZW) | Migrating SurveyJoin to a Relational Database for Scalability and Improved Performance.
+https://github.com/ioos/gsoc/issues/77 | [OCSMesh](https://summerofcode.withgoogle.com/programs/2025/projects/9mj1dDWr) | OCSMesh Parallelization
 
 
 Important highlights:
