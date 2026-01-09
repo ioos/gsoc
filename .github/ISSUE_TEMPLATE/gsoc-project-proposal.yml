@@ -69,10 +69,10 @@ body:
       value: "## Mentor Information"
   - type: markdown
     attributes:
-      value: | 
+      value: "| 
       **(Required)** Provide contact information for yourself and any other mentors that you expect to particpate in your project below.  Mentors can be adjusted later so this list can be preliminary.
       
-      We'll be in touch with futher details about GSoC mentoring and what makes someone a good fit to participate as a mentor.  
+      We'll be in touch with futher details about GSoC mentoring and what makes someone a good fit to participate as a mentor."
   - type: input
     id: mentors-names
     attributes:
