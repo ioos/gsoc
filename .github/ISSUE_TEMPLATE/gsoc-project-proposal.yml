@@ -103,7 +103,7 @@ body:
   - type: markdown
     attributes:
       value: | 
-        **(Optional) We highly encourage you to add a means to assess a potential contributor's skills prior to the start of the contributor application period in Feb - March.
+        **(Optional)** We highly encourage you to add a means to assess a potential contributor's skills prior to the start of the contributor application period in Feb - March.
 
         This helps applicants gauge their abilities against your expectations as a mentor and provides a means for you to evaluate their skills and coding abilities separate from the written GSoC proposal.  
         
@@ -114,21 +114,21 @@ body:
     id: contributor-evaluation
     attributes:
       label: Contributor Evaluation/GSoC GitHub Issue Links  
-      description: **(Optional)** In this section, include either 1) a link to or description of a coding-related challenge you expect all applicants to complete as part of their application or 2) links to existing GitHub issues in your project's repository(s) that are labeled 'GSoC first issue' or similar that applicants can address via PR to demonstrate proficiency with your project/code base.  
+      description: "**(Optional)** In this section, include either 1) a link to or description of a coding-related challenge you expect all applicants to complete as part of their application or 2) links to existing GitHub issues in your project's repository(s) that are labeled 'GSoC first issue' or similar that applicants can address via PR to demonstrate proficiency with your project/code base."
     validations:
       required: false
   - type: textarea
     id: additional-background
     attributes:
       label: Additional Project Background/Links   
-      description: **(Optional)** Include a list of links to your project code repositories or any other references that are relevant to your project idea.
+      description: "**(Optional)** Include a list of links to your project code repositories or any other references that are relevant to your project idea."
     validations:
       required: false
   - type: input
     id: previous-projects
     attributes:
       label: Previous Project Idea Link(s)
-      description: **(Optional)** If you're re-submitting a project idea from a previous year, include the link the original GitHub issues here. 
+      description: "**(Optional)** If you're re-submitting a project idea from a previous year, include the link the original GitHub issues here." 
       placeholder: e.g. https://github.com/ioos/gsoc/issues/93
     validations:
       required: false
