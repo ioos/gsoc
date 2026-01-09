@@ -67,7 +67,7 @@ body:
       value: "## Mentor Information"
   - type: markdown
     attributes:
-      value: **(Required)** Provide contact information for yourself and any other mentors that will particpate in your project below."
+      value: "**(Required)** Provide contact information for yourself and any other mentors that will particpate in your project below."
   - type: input
     id: mentors-names
     attributes:
