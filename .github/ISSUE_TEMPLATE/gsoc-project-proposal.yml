@@ -6,17 +6,17 @@ body:
   - type: markdown
     attributes:
       value: |
-      Thanks for your interest in contributing to IOOS' GSoC application this year!  
-      
-      Please complete this form to begin the process of adding a project idea to the ideas list we'll submit to Google as part of our application.  Project ideas can be edited/updated until the application period begins in March.  We will contact you with questions and feedback about your idea prior to the early February deadline to submit our Org application.
+        Thanks for your interest in contributing to IOOS' GSoC application this year!  
+        
+        Please complete this form to begin the process of adding a project idea to the ideas list we'll submit to Google as part of our application.  Project ideas can be edited/updated until the application period begins in March.  We will contact you with questions and feedback about your idea prior to the early February deadline to submit our Org application.
   - type: markdown
     attributes:
       value: "## Project Description"
   - type: markdown
     attributes:
       value: |
-      **(Required)** Provide a concise descripion of your project idea & expected outcomes.  
-      It's recommended to keep both sections under **five sentences.**  Further detail can be provided to applicants as they contact you during the application phase.  Longer project descriptions can be counterproductive with the growing use of AI."
+        **(Required)** Provide a concise descripion of your project idea & expected outcomes.  
+        It's recommended to keep both sections under **five sentences.**  Further detail can be provided to applicants as they contact you during the application phase.  Longer project descriptions can be counterproductive with the growing use of AI."
   - type: textarea
     id: description
     attributes:
@@ -100,11 +100,12 @@ body:
       value: "### Contributor Section"
   - type: markdown
     attributes:
-      value: | Optional, but highly encouraged to complete prior to the application period in Feb - March.
-      
-      Including a contributor evaluation question or coding challenge helps applicants gauge their abilities against your expectations as a mentor provides a means for you to evaluate their skills and coding abilities separate from the written application.  Assessing applicants based on GSoC project propsals alone can lead to a mismatch beween mentor expectations and contributor proficiency/suitability, from our experience.
-
-      Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.
+      value: | 
+        Optional, but highly encouraged to add a Contributor Evaluation prior to the application period in Feb - March.
+        
+        Including a contributor evaluation question or coding challenge helps applicants gauge their abilities against your expectations as a mentor provides a means for you to evaluate their skills and coding abilities separate from the written application.  Assessing applicants based on GSoC project propsals alone can lead to a mismatch beween mentor expectations and contributor proficiency/suitability, from our experience.
+        
+        Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.
   - type: textarea
     id: contributor-evaluation
     attributes:
