@@ -48,7 +48,7 @@ body:
         - 350 hours
     validations:
       required: true
-   - type: markdown
+  - type: markdown
     attributes:
       value: Project duration: 90 hour projects are typically completed over a two month period, while 175 and 350 hour projects typically span the entire summer coding period. 
   - type: dropdown
