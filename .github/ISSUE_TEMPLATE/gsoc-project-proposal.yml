@@ -3,6 +3,10 @@ description: Use this template for GSoC project proposals.
 title: "[GSoC Project Proposal]: "
 labels: ["GSoC26", "project idea"]
 body:
+  - type: markdown
+    attributes:
+      value: "### Project Description/Outcomes |
+      (Required) Provide a concise descripion of your project idea & expected outcomes.  It's recommended to keep both sections under five sentences.  Further detail can be provided to applicants as they contact you during the application phase.  Longer descriptions can be counterproductive with the growing use of AI."
   - type: textarea
     id: description
     attributes:
@@ -24,28 +28,33 @@ body:
       description: What types of skills does the applicant need to complete this project?  Short list of programing languages, software packages, or any other specific skills they should have to have a good chance of success.  
     validations:
       required: true
-  - type: textarea
-    id: contributor-evaluation
+  - type: dropdown
+    id: size
     attributes:
-      label: Contributor Evaluation/GSoC GitHub Issue Links  
-      description: We strongly encourage mentors to provide a way to evaluate applicants' knowledge, skills, and abilities as part of the application process.  Assessing applicants based on GSoC project propsals alone can lead to a mismatch beween mentor expectations and contributor proficiency/suitability from our experience.  In this section, optionally include either 1) a link to or description of a coding-related challenge you want all applicants to complete as part of their application or 2) links to existing GitHub issues in your project's repository(s) that are labeled 'GSoC first issue' or similar that applicants can resolve to demonstrate proficiency with your project/code base.  Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.  
+      label: Expected Project Size
+      description: GSoC projects can be one of three different sizes depending on your estimation of the amount of time it should take the student to complete.  Keep in mind that the project size will be the maximum number of hours the contributor will be compensated for for the project, and also will impact the amount of time you during the coding period you commit to mentor for, generally.  If uncertain, select a larger size.  The student can also suggest a different size as part of their application.  
+      options: 
+        - 90 hours
+        - 175 hours
+        - 350 hours
     validations:
-      required: false
-  - type: textarea
-    id: additional-background
+      required: true
+  - type: dropdown
+    id: difficulty
     attributes:
-      label: Additional Project Background/Links   
-      description: Include a list of links to your project code repositories or any other references that are relevant to your project idea, if not included in the Project Description or elsewhere.  Any prior GSoC completed project that pertains to this project idea might be included here.
+      label: Project Difficulty
+      description: Specify the expected difficulty of the project (Novice, Intermediate, Expert).
+      options: 
+        - Novice
+        - Intermediate
+        - Expert
     validations:
-      required: false
-  - type: input
-    id: previous-projects
+      required: true
+      
+  - type: markdown
     attributes:
-      label: Previous Project Idea Link(s)
-      description: If you're re-submitting a project idea from a previous year, include links to the closed GitHub issues here.  This helps applicants understand any previous communication about the project idea that has taken place. 
-      placeholder: e.g. https://github.com/ioos/gsoc/issues/93
-    validations:
-      required: false
+      value: "### Mentor Information |
+      (Required) Provide contact information for yourself and any other mentors that will particpate in your project below."
   - type: input
     id: mentors-names
     attributes:
@@ -70,25 +79,33 @@ body:
       placeholder: ioosgsocmentoremail1@organization.org, ioosgsocmentoremail2@secondaryorg.org, ...
     validations:
       required: true
-  - type: dropdown
-    id: size
+      
+  - type: markdown
     attributes:
-      label: Expected Project Size
-      description: GSoC projects can be one of three different sizes depending on your estimation of the amount of time it should take the student to complete.  Keep in mind that the project size will be the maximum number of hours the contributor will be compensated for for the project, and also will impact the amount of time you during the coding period you commit to mentor for, generally.  If uncertain, select a larger size.  The student can also suggest a different size as part of their application.  
-      options: 
-        - 90 hours
-        - 175 hours
-        - 350 hours
+      value: "### Contributor Section | 
+      Optional, but highly encouraged that you fill in the sections below to help applicants understand your project and to provide some means to evaluation their skills and coding abilities separate from the application."
+  - type: markdown
+    attributes:
+      value: Optional, but highly encouraged that you fill in the sections below to help applicants understand your project and to provide some means to evaluation their skills and coding abilities separate from the application.
+  - type: textarea
+    id: contributor-evaluation
+    attributes:
+      label: Contributor Evaluation/GSoC GitHub Issue Links  
+      description: We strongly encourage mentors to provide a way to evaluate applicants' knowledge, skills, and abilities as part of the application process.  Assessing applicants based on GSoC project propsals alone can lead to a mismatch beween mentor expectations and contributor proficiency/suitability from our experience.  In this section, optionally include either 1) a link to or description of a coding-related challenge you want all applicants to complete as part of their application or 2) links to existing GitHub issues in your project's repository(s) that are labeled 'GSoC first issue' or similar that applicants can resolve to demonstrate proficiency with your project/code base.  Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.  
     validations:
-      required: true
-  - type: dropdown
-    id: difficulty
+      required: false
+  - type: textarea
+    id: additional-background
     attributes:
-      label: Project Difficulty
-      description: Specify the expected difficulty of the project (Novice, Intermediate, Expert).
-      options: 
-        - Novice
-        - Intermediate
-        - Expert
+      label: Additional Project Background/Links   
+      description: Include a list of links to your project code repositories or any other references that are relevant to your project idea, if not included in the Project Description or elsewhere.  Any prior GSoC completed project that pertains to this project idea might be included here.
+    validations:
+      required: false
+  - type: input
+    id: previous-projects
+    attributes:
+      label: Previous Project Idea Link(s)
+      description: If you're re-submitting a project idea from a previous year, include links to the closed GitHub issues here.  This helps applicants understand any previous communication about the project idea that has taken place. 
+      placeholder: e.g. https://github.com/ioos/gsoc/issues/93
     validations:
       required: false
