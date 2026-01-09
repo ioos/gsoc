@@ -6,15 +6,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for your interest in contributing to IOOS' GSoC application this year!  
-        Please complete this form to begin the process of adding a project idea to the ideas list we'll submit to Google as part of our application.  Project ideas can be edited/updated until the application period begins in March.  We will contact you with questions and feedback about your idea prior to the early February deadline to submit our Org application.
+        Thanks for your interest in contributing to IOOS' GSoC application!  Complete this form to get the process started.
+
+        **Note:** Your project idea can be edited/updated once submitted, up until the GSoC , application period begins in March, so first drafts are OK.  We'll be in touch with any feedback or questions.
   - type: markdown
     attributes:
-      value: "## Project Description"
+      value: "## Project Info"
   - type: markdown
     attributes:
       value: |
-        **(Required)** Provide a concise descripion of your project idea & expected outcomes.  
+        **(Required)** Provide a concise descripion of your project idea & expected outcomes.
+
         It's recommended to keep both sections under **five sentences.**  Further detail can be provided to applicants as they contact you during the application phase.  Longer project descriptions can be counterproductive with the growing use of AI."
   - type: textarea
     id: description
@@ -34,7 +36,7 @@ body:
     id: skills
     attributes:
       label: Skills Required
-      description: What types of skills should the applicant have to complete this project?  Short list of programing languages, software packages, or any other specific technical or general skills they should have to have a good chance of completing the project successfully.  
+      description: What types of skills should the applicant have to complete this project?  Short list of programing languages, software package familiarity, or any other specific technical or general skills they should have to have a good chance of success .  
     validations:
       required: true
   - type: dropdown
@@ -67,7 +69,10 @@ body:
       value: "## Mentor Information"
   - type: markdown
     attributes:
-      value: "**(Required)** Provide contact information for yourself and any other mentors that will particpate in your project below."
+      value: | 
+      **(Required)** Provide contact information for yourself and any other mentors that you expect to particpate in your project below.  Mentors can be adjusted later so this list can be preliminary.
+      
+      We'll be in touch with futher details about GSoC mentoring and what makes someone a good fit to participate as a mentor.  
   - type: input
     id: mentors-names
     attributes:
@@ -94,32 +99,36 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "### Contributor Section"
+      value: "## Additional Details & Contributor Evaluation"
   - type: markdown
     attributes:
       value: | 
-        Optional, but highly encouraged to add a Contributor Evaluation prior to the application period in Feb - March.
-        Including a contributor evaluation question or coding challenge helps applicants gauge their abilities against your expectations as a mentor provides a means for you to evaluate their skills and coding abilities separate from the written application.  Assessing applicants based on GSoC project propsals alone can lead to a mismatch beween mentor expectations and contributor proficiency/suitability, from our experience.
-        Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as comments and questions about what is included here.
+        **(Optional) We highly encourage you to add a means to assess a potential contributor's skills prior to the start of the contributor application period in Feb - March.
+
+        This helps applicants gauge their abilities against your expectations as a mentor and provides a means for you to evaluate their skills and coding abilities separate from the written GSoC proposal.  
+        
+        Google, and IOOS, both strongly discourage mentors from assessing applicants based solely on their GSoC project propsals alone.  
+        
+        Communication with applicants during the application period is highly recommended and filling in this information will help to get that started.  Expect interested applicants to follow any links you provide during the application period and be prepared to field PRs as well as GitHub issue comments/questions about what is included here.
   - type: textarea
     id: contributor-evaluation
     attributes:
       label: Contributor Evaluation/GSoC GitHub Issue Links  
-      description: (Optional) In this section, include either 1) a link to or description of a coding-related challenge you want all applicants to complete as part of their application or 2) links to existing GitHub issues in your project's repository(s) that are labeled 'GSoC first issue' or similar that applicants can resolve to demonstrate proficiency with your project/code base.  
+      description: **(Optional)** In this section, include either 1) a link to or description of a coding-related challenge you expect all applicants to complete as part of their application or 2) links to existing GitHub issues in your project's repository(s) that are labeled 'GSoC first issue' or similar that applicants can address via PR to demonstrate proficiency with your project/code base.  
     validations:
       required: false
   - type: textarea
     id: additional-background
     attributes:
       label: Additional Project Background/Links   
-      description: (Optional) Include a list of links to your project code repositories or any other references that are relevant to your project idea.
+      description: **(Optional)** Include a list of links to your project code repositories or any other references that are relevant to your project idea.
     validations:
       required: false
   - type: input
     id: previous-projects
     attributes:
       label: Previous Project Idea Link(s)
-      description: (Optional) If you're re-submitting a project idea from a previous year, include the link the original GitHub issues here. 
+      description: **(Optional)** If you're re-submitting a project idea from a previous year, include the link the original GitHub issues here. 
       placeholder: e.g. https://github.com/ioos/gsoc/issues/93
     validations:
       required: false
