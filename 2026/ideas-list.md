@@ -17,10 +17,3 @@ Mentoring organization application deadline: Feb 3, 2026.
 |  Enhance NOS skill assessment package’s user and developer experience | https://github.com/ioos/gsoc/issues/100 | The National Ocean Service (NOS) is currently developing a Python package to assess the skill of their Operational Forecast Systems (OFS). The goal of this project is to work with the NOS team and improve the skill assessment package by: 1) Enhancing the user experience by expanding the existing graphical user interface (GUI) and adding a visualization dashboard that displays results, and 2) Expanding automated GitHub testing, debugging, and other code development tools used in the code development workflow. | 350 hours |
 | Enhancing the noaa_coops Python package | https://github.com/ioos/gsoc/issues/101 | The noaa_coops Python package provides a wrapper for the NOAA CO-OPS Tides & Currents data APIs. This project will upgrade the noaa_coops Python package to improve usability across CO-OPS’ products, ensuring a seamless user experience while adhering to API best practices.  Improvements will include simplifying access to data requests exceeding CO-OPS Data API data length limits, and introducing support for additional CO-OPS API endpoints, such as the derived product API. | 90 hours |
 | Add sex structure to FIMS statistical-catch-at-age model | https://github.com/ioos/gsoc/issues/114 | Right now, the statistical catch-at-age model in the Fisheries Integrated Modeling System (FIMS) has a single sex. Adding sex structure to allow for males, females, and hermaphrodites is high on the priority list. This will involve coding in both C++ and R, where the population dynamics are written in C++ and interacting with setting up the model and structuring the data are in R. | 350 hours |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
