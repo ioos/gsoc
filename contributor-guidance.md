@@ -66,3 +66,16 @@ We usually favor students that show regular communication with mentors during th
 ### Submitting your application
 
 Submit your completed application to the Google Summer of Code website directly, following all of the guidelines.  This is the only way an applications will be accepted for GSoC.
+
+### AI Policies
+
+We understand that the use of LLMs for development is evolving fast.
+Participants should not make use of AI for large portions of their projects, code, or any interaction with mentors and members of the organization.
+
+In summary participants should follow these guidelines:
+
+1. Do not use AI generated comments in any issues or PRs, use your own voice.
+1. Always disclose if AI was used in the code.
+1. Be ready to explain the code and/or answer any questions about the prompt, agent, or configuration that generate the code.
+1. Note that some projects may reject any AI code due to copyright concerns.
+1. Some projects may have additional policies on AI usage. Be sure to check with your mentor what they are.
