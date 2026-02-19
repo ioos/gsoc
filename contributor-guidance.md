@@ -72,7 +72,7 @@ Submit your completed application to the Google Summer of Code website directly,
 We understand that the use of LLMs for development is evolving fast.
 Participants should not make use of AI for large portions of their projects, code, or any interaction with mentors and members of the organization.
 
-In summary participants should follow these guidelines:
+Participants should follow these guidelines:
 
 1. Do not use AI generated comments in any issues or PRs, use your own voice.
 1. Always disclose if AI was used in the code.
