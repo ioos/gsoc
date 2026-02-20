@@ -96,6 +96,17 @@ Please provide brief answers to the following questions:
 * Is there anything your mentors should know about your previous committments, other work schedule, or studies during GSoC that you'll need to work around during GSoC?  How do you plan to honor these committments while also completing your GSoC project?  Please provide this info to ensure your mentors are aware and can be most effective in supporting you.
 * 
 
+## Use of AI in your proposal
+
+The use of any AI-tool during the proposal writing should be restrict to "AI assisted copy editing" purposes.
+We define the term "AI assisted copy editing" as AI-assisted improvements to human-generated texts for readability and style,
+and to ensure that the texts are free of errors in grammar, spelling, punctuation and tone.
+These AI-assisted improvements should not include generative editorial work and autonomous content creation.
+
+Please always disclose if AI was used in the proposal writing process in any way.
+One must be ready to answer any questions mentors may have.
+For example, the prompt used, the AI agent, possible copyright questions, etc.
+
 ## Appendix
 
 *Optional*: Please add any additional content or references/links that support your application.
