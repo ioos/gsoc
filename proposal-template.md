@@ -98,9 +98,14 @@ Please provide brief answers to the following questions:
 
 ## Use of AI in your proposal
 
-Please always disclose if AI was used in the proposal writing process. One must be ready to answer any questions mentors may have. For example, the prompt used, the AI agent, possible copyright questions, etc.
+The use of any AI-tool during the proposal writing should be restrict to "AI assisted copy editing" purposes.
+We define the term "AI assisted copy editing" as AI-assisted improvements to human-generated texts for readability and style,
+and to ensure that the texts are free of errors in grammar, spelling, punctuation and tone.
+These AI-assisted improvements should not include generative editorial work and autonomous content creation.
 
-We recommend to keep it to a minimum. We reserve the right to ignore any propoasals that contains AI slop, large parts from GenAI, or did not disclose the use of AI but clearly originated from it.
+Please always disclose if AI was used in the proposal writing process in any way.
+One must be ready to answer any questions mentors may have.
+For example, the prompt used, the AI agent, possible copyright questions, etc.
 
 ## Appendix
 
