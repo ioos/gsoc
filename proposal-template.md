@@ -96,6 +96,12 @@ Please provide brief answers to the following questions:
 * Is there anything your mentors should know about your previous committments, other work schedule, or studies during GSoC that you'll need to work around during GSoC?  How do you plan to honor these committments while also completing your GSoC project?  Please provide this info to ensure your mentors are aware and can be most effective in supporting you.
 * 
 
+## Use of AI in your proposal
+
+Please always disclose if AI was used in the proposal writing process. One must be ready to answer any questions mentors may have. For example, the prompt used, the AI agent, possible copyright questions, etc.
+
+We recommend to keep it to a minimum. We reserve the right to ignore any propoasals that contains AI slop, large parts from GenAI, or did not disclose the use of AI but clearly originated from it.
+
 ## Appendix
 
 *Optional*: Please add any additional content or references/links that support your application.
