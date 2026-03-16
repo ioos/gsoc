@@ -1,12 +1,6 @@
+IOOS example GSoC proposal template.  
 
-An ideal GSoC proposal should include the following:
-1. A detailed, descriptive title
-2. Personal Information, including contact info, timezone
-3. Link to a **code contribution**, such as a PR, you've made previously
-4. Full description of your proposed project, including timeline and planned deliverables
-5. Your schedule during the GSoC period and any prior committments that might affect your availability (school exams, other work committments, travel, etc)
-
-Example GSoC proposal template:
+_Please also refer to our [Contributor Guidance](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md) for key additional information about IOOS' GSoC application policies, in particular [What makes a good GSoC proposal?](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md#what-makes-a-good-gsoc-proposal)_
 
 
 #  Title 
@@ -15,9 +9,10 @@ Example GSoC proposal template:
 1. Name 
 2. Contact Info (email, phone, etc.)
 3. Country, Timezone
-4. GitHub handle, LinkedIn or other professional profile
-5. School/University, concentration & expected graduation date
-6. Link to a resume (if you want)
+4. GitHub handle/profile 
+5. LinkedIn or other professional profile/personal website
+6. School/University, concentration & expected graduation date
+7. Link to a resume (if you want)
 
 ## About Me
 Short introduction to you and what your interests and goals are, both with GSoC and otherwise.  What are your goals for participating in GSoC in relation to your career?
@@ -36,9 +31,16 @@ Note that this part is **very** important to show your motivation!
 
 Do you have code on GitHub?  Share your prior development experience that qualifies you for GSoC and for the project you're applying for.  
 List examples of your previous code contributions: to other open source projects, personal projects, or coding projects for academic studies that are publicly-visible.  
-If you've already submitted code in the form of a PR to the project or organization that you're applying for for GSoC, link to that here to ensure mentors make the connection with your application!
+
+## Contributor Evaluation Responses
+
+Please include your response to any Contributor Evaluation challenge listed in the relevant project idea here.  If the project idea linked to open beginner issues in a GitHub repository, include links to any PRs you may have submitted to address them.  
 
 ## Project Details
+
+### Project Idea Link
+
+Link to the project idea your application pertains to from the IOOS Organization project ideas list for this year - this year's project ideas list is linked from the [README](https://github.com/ioos/gsoc/blob/main/README.md).
 
 ### Technical Description
 
@@ -94,18 +96,22 @@ _**Please Note:** We ask our GSoC contributors to produce a final writeup summar
 Please provide brief answers to the following questions: 
 * What is your preferred method to communicate with your project mentors during GSoC (community bonding period & coding period).  What formats are you able to use: virtual check-in meetings, Slack, GitHub issue, email?
 * Is there anything your mentors should know about your previous committments, other work schedule, or studies during GSoC that you'll need to work around during GSoC?  How do you plan to honor these committments while also completing your GSoC project?  Please provide this info to ensure your mentors are aware and can be most effective in supporting you.
-* 
 
 ## Use of AI in your proposal
 
+#### Describe use of AI in proposal development
+
 The use of any AI-tool during the proposal writing should be restrict to "AI assisted copy editing" purposes.
-We define the term "AI assisted copy editing" as AI-assisted improvements to human-generated texts for readability and style,
-and to ensure that the texts are free of errors in grammar, spelling, punctuation and tone.
+We define the term "AI assisted copy editing" as AI-assisted improvements to human-generated texts for readability and style, and to ensure that the texts are free of errors in grammar, spelling, punctuation and tone.
 These AI-assisted improvements should not include generative editorial work and autonomous content creation.
 
 Please always disclose if AI was used in the proposal writing process in any way.
 One must be ready to answer any questions mentors may have.
 For example, the prompt used, the AI agent, possible copyright questions, etc.
+
+#### Describe use of AI in code developed for your proposal
+
+Describe what AI tools, if any, were used in developing code in your proposal/application, and the approach you used while using AI, including how you tested or otherwise evaluated the AI code output to ensure you understand how it works and would be able to edit/maintain it in the role of an open source contributor.  
 
 ## Appendix
 
