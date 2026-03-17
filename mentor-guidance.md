@@ -102,21 +102,19 @@ Mentors are encouraged to review the IOOS GSoC [Contributor Guidance](https://gi
 
 We strongly encourage you to favor applications that follow the IOOS proposal template and include answers to all questions in the template as part of the application - in addition to using the criteria below to evaluating proposals/applicants.  This can help to filter AI-generated or otherwise low-quality proposals and/or applicants that might not perform in alignment with their proposals once accepted and the coding period begins.
 
-*These tips are here to help with a mentor's evaluation of a contributor. They are not required.*
+*Below are some recommended areas for mentors to focus on in reviewing/evaluation GSoC contributors and project proposals.*
 
-- [ ] Have they communicated with you as a potential mentor during the application period?
-- [ ] Have they communicated with the community?
-- [ ] Did they reference projects they developed with links to repos or provided code?
-- [ ] Did they provide methods for mentors to contact them?
-- [ ] Did they state which project they are applying for and why they believe they will be successful in completing the project?
-- [ ] Did they share their proposed project plan with mentor(s) prior to the close of the application period to give them the opportunity to give feedback or ask questions/provide feedback?
-- [ ] Does their project plan clearly state the steps they will take during GSoC to address the goals or challenges in the proposed project?
-- [ ] Does their proposal align with your project idea?  Or not?
-- [ ] Did they create a pull request on the existing code?
-- [ ] Did they continue communication throughout the application period?
-- [ ] Do they have time for GSoC? This is a paid job! Contributors should state that you have time in your motivation letter, and list other commitments!
-- [ ] Does their application describe what motivates them to work on this project, and, how their involvement in GSoC and this project in particular furthers their career goals?
+- [ ] Are they eligible for GSoC?  Please confirm as best you can based the [GSoC Rules - Section 7.1 Eligibility](https://summerofcode.withgoogle.com/rules) and contributor information in the proposal.
 - [ ] Did they follow the IOOS GSoC [proposal template](https://github.com/ioos/gsoc/blob/main/proposal-template.md) and [contributor guidance](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md) in developing their application?  Did they include all sections in the template or address any questions you might have had for them during the application period in their proposal?
-- [ ] Does their application look generic or possibly AI-generated?  Or, have they not interacted with you at all prior to submitting their application?  These are **red flag warning signs** that, from our experience, have indicated caution before deciding to accept a contributor.
+- [ ] Have you communicated with them during the application period?  Did they share their proposed project plan with you during the application period to allow you to provide feedback? It's strongly discouraged to accept proposals from contributors that you haven't had some type of communication with during the application period.  Applications from uknown/unfamiliar contributors, or that appear generic or possibly AI-generated or do not follow the IOOS proposal template are **red flag warning signs** that, from our experience, warrant caution before deciding to accept a contributor.
+- [ ] **Project Size (Important)**: does their proposal align with your expectations of the GSoC project size? The project size specified in the contributor's application is what counts to Google - make sure you agree with the proposed size.  **The project size in the proposal cannot be changed after the end of the application period.**
+- [ ] Does their proposal align with your project idea?  Or not?
+- [ ] Does their project plan clearly state the steps they will take during GSoC to address the goals or challenges in your project idea?
+- [ ] Did they include their qualifications/relevant skills in their application and state why they believe they will be successful in completing the project?
+- [ ] Did they follow the guidance you posted in your project idea for evaluations/assessments or address beginner issues in your repository during the application period?
+- [ ] Does their proposal include sufficient code or technical design details to provide confidence in thier knowledge of the problem and ability to address it?
+- [ ] Does their application describe what motivates them to work on this project, and, how their involvement in GSoC and this project in particular furthers their career goals?
+- [ ] Did they include personal/background/contact information following the proposal template?  It is important to know how to reach any potential GSoC contributor.
+- [ ] Do they have time for GSoC? This is a paid job! Potential contributors should describe in their applications their existing commitments (time- or schedule-wise) that will impact their availability for GSoC work during the summer coding period.
 - [ ] Does their GitHub user account page have some information about them? Ideally a contributors account page would have an appropriate avatar and a short description about their interests and/or past code contributions. Avoid accounts created weeks or days before they start corresponding with mentors as these could be dubious contributors.
-- [ ] Did they disclose use of AI in developing their application and/or describe their approach to using AI as a tool in a way that aligns with your expectations as a mentor?  Have they demonstrated a suitable understanding of the code within their application, if it is partially AI-generated?
+- [ ] Did they disclose use of AI in developing their application/code examples and/or describe their approach to using AI as a tool in a way that aligns with [IOOS' GSoC AI policies](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md#ai-policies) and your expectations as a mentor?  Have they demonstrated a suitable understanding of the code within their application, if it is partially AI-generated?

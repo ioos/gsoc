@@ -1,67 +1,71 @@
-# Student Contributing Guide
+# IOOS GSoC Contributor Guide
 
-## Getting Started
+## Overview 
 
-If IOOS is included as a GSoC mentoring organization for the year (typically announced in late February per the [GSoC program timeline](https://developers.google.com/open-source/gsoc/timeline), we invite interested contributors to apply to and of the projects listed in our project ideas list, linked from the [README](https://github.com/ioos/gsoc/blob/main/README.md). 
+Google typically announces GSoC mentoring organizations in late February per [GSoC program timeline](https://developers.google.com/open-source/gsoc/timeline).  
 
-If you find a a project you feel you can tackle, reach out to the mentors to start a conversation about the project and to share your ideas.  
+Interested GSoC applicants should:
 
-Some prospective contributors comment in the project idea GitHub issue directly, and this is OK to do to begin a dialog with mentors, however we discourage you from sharing any detailed ideas that you have in GitHub issue comments, as there's always a risk of plagiarism by other applicants in an open forum such as GitHub.  
+1. **Wait until the annual GSoC Org announcement** is made before committing significant time towards any of our draft project ideas, and
+1. If IOOS is accepted, consult the projects listed in our project ideas list, linked from the [README](https://github.com/ioos/gsoc/blob/main/README.md) to match with your skills and interests
+1. Reach out to the mentors listed for each project idea to complete assessments/evaluations linked within and/or initiate dialog on developing a project proposal with their assitance (as available)
 
-We ask mentors to include an email address for at least one mentor in each project idea; please instead reach out via email to mentor(s) to discuss any specific ideas you're considering or plans you have for your proposal.
-
-Additionally, if the project idea you're intersted in includes links to existing background issues in the project's code repository, you can read up on those, and, if you're able to, submit a PR to demonstrate your ability.  Some projects might tag open issues as suitable for GSoC as a way to identify more manageable issues for potential new contributors to address.  Feel free to tackle any of those if you are able as they'll allow mentors to assess your ability firsthand. 
-
-**Further Background:** 
-* [The opensource guide](https://opensource.guide/how-to-contribute/) has a good introduction how to start contributing to open source projects.
-
-
-### Do I have the experience to apply?
-
-The answer is generally: **Yes**.
-Note that our organization values creativity, intelligence and enthusiasm above specific knowledge of the libraries or algorithms we use.
-We think that a motivated students who are willing to learn are more valuable than anything else.
-
-The [GSoC Guide](https://google.github.io/gsocguides/student/am-i-good-enough#) gives a good overview of this part for GSoC.
+Best practices for GSoC communication during application period:
+1. It's OK to express interest in a project idea by commenting on the GitHub issue directly, however most communication and dialog with mentors should be done via email for privacy reasons; plagiarism in GSoC is real and mentors should not be expected to reply to every GitHub issue comment
+1. We ask mentors to be responsive to applicant inquiries and work with interested applicants whose skill sets are a good match for the project (see below), however mentors' time is limited and we ask applicants to be understanding of this during the application period
+1. Write some code: if the project idea you're interested in includes links to a code assessment/evaluation, tackle that and **email** your work to the mentors (do not post publicly).  If the project idea includes 'low-hanging fruit' or links to existing open issues in their repo, work on those and submit your work via PR (bearing in mind our [**AI Policies**](#ai-policies))
+1. Do not submit spammy or AI sloppy PRs or issue comments.  We take the rules in our AI Policies very seriously and ask interested applicants to keep in mind that the nature of GSoC is for learning/skill growth.  AI tools are increasingly useful in coding, and can be used in GSoC/IOOS, but their use must be disclosed in relevant locations and the policy should always be followed.  As in (2), please respect our time in managing GitHub interactions and maintaining our open source packages.
 
 ## Applying to Google Summer of Code & IOOS
 
-To get an idea for the IOOS Data Management and Cyberinfrastructure (DMAC) community (the overarching community from which most of our GSoC mentors and projects are drawn from), visit the 'ioos_tech' Google Group: https://groups.google.com/g/ioos_tech.
+### Eligibility & Selection Criteria
+1. Refer to the [GSoC Rules (Section 7.1 Eligibility)](https://summerofcode.withgoogle.com/rules) to determine if you are eligibile for GSoC
+1. The [GSoC Contributor Guide](https://google.github.io/gsocguides/student/am-i-good-enough#) provides a good overview what GSoC's goals are and if you are likely to be a good fit for the program.
+1. Please note that IOOS values creativity, intelligence and enthusiasm above specific knowledge of the libraries or algorithms we use.  We think that motivated students who are willing and eager to learn are more valuable than anything else.
+1. Get to know IOOS: to get an idea for the IOOS Data Management and Cyberinfrastructure (DMAC) Community (where most of our GSoC mentors and projects are drawn from) and the work that we do, visit the 'ioos_tech' Google Group: https://groups.google.com/g/ioos_tech.
+2. The [Open Source Guide](https://opensource.guide/how-to-contribute/) eneral background on open source projects and how to contribute
 
-### Proposal template
 
-We provide a an application/proposal template (in markdown) you can use as a reference or adapt for your personal application:
+### Proposal Template
+
+We provide a markdown application/proposal template that should be used to start your personal application/project proposal:
 
 **https://github.com/ioos/gsoc/blob/main/proposal-template.md**  
 
-Please include at a minimum each section in the proposal template in your application.  It is fine to reformat or reorder sections, and/or to submit an application in PDF format with diagrams, images, or code examples.  A complete application should include information for all of the sections and should have all of the placeholder information filled in.
+Guidelines for applying: 
+1. Please first ensure you are eligible for GSoC according to the [GSoC Rules - Section 7.1 Eligibility](https://summerofcode.withgoogle.com/rules)
+1. Please complete each section in the proposal template in your proposal.  Additional content is OK to include beyond sections in the template.
+1. We prefer you not reorder or reformat sections for consistency in reviewing incoming applications.
+1. It is OK to submit an application in PDF format with diagrams, images, and/or code examples.
+
 
 ### What makes a good GSoC proposal?
 
 An ideal GSoC proposal should include the following:
 1. A detailed, descriptive title
 2. Personal Information, including contact info, timezone
-3. Link to a **code contribution**, such as a PR, you've made previously
+3. A link or inline/embedded code that answers any assessment/evaluation mentors have included in the relevant project idea
 4. Full description of your proposed project, including timeline and planned deliverables (see the [proposal-template.md](https://github.com/ioos/gsoc/blob/main/proposal-template.md) for a recommended format)
 5. Your schedule during the GSoC period and any prior committments that might affect your availability (school exams, other work committments, travel, etc)
+6. Disclosure and description of how AI was used in developing your code example(s) and/or proposal text - please refer to our [AI Policies](#ai-policies)
 
 ### During the application phase
 
-We usually favor students that show regular communication with mentors during the application period and are able to demonstrate a clear understanding of the challenge proposed in the project idea within their proposal.  In some cases, mentors may include existing GitHub issues or other references within their code that students can use to both understand the software and, in some cases, demonstrate they have a good chance to succeed in addressing the problem presented in the project idea.  
+It is important as an applicant to follow instructions posted by mentors in the relevant project idea: communication methods, expectations for engagement during the application period, completion of any contibutor evaluation/assessment challenge included and/or resolving open issues in project repositories that are linked in the project idea.
 
-*These tips are here to help with your application. They are not required.*
+The goal of the application period should be to understand the challenge presented in the project idea, determine the intersection with your skills/abilities/interests and then to demonstrate within your proposal a well thought-out, achievable, and appropriate (according to the mentors' feedback to you) solution to the problem.  The proposal provides the relevant technical detail, proposed approach to, and schedule for developing the solution during the coding period.    
 
-- Have you communicated with the organization's mentors during the application period?
-- Have you communicated with the community?
-- Did you reference projects you coded WITH links to repos or provided code?
-- Did you provide methods for mentors to contact you?
-- Did you state which project you are applying for and why you believe you will be successful in completing the project?
-- Did you share your proposed project plan with mentor(s) prior to the close of the application period to give them the opportunity to give feedback or ask you questions?
-- Does your project plan clearly state the steps you will take during GSoC to address the goals or challenges in the proposed project? 
-- Did you create a pull request on the existing code?
-- Did you continue communication until accepted students are announced?
-- Do you have time for GSoC? This is a paid job! State that you have time in your motivation letter, and list other commitments!
+*Here are some tips to help you with developing your application/proposal:*
+
+- Have you communicated with the mentor listed in the relevant project idea during the application period?  Specifically, did you share your proposed project plan with mentor(s) prior to the close of the application period to give them the opportunity to give feedback or ask you questions?
+- Did you provide methods for mentors to contact you in your proposal?
+- Does your GitHub profile, other professional CV, LinkedIn page, or other personal website contain details about your background and relevant experience?  Is it up to date?
+- Did you include a link to the project idea you are applying for and describe why you believe you will be successful in completing the project?
 - Does you application describe what motivates you to work on this project, and, how your involvement in GSoC and this project in particular furthers your career goals?
+- Does your project plan clearly state the steps you will take during GSoC to address the goals or challenges in the proposed project?
+- Do you have time for GSoC? This is a paid job! State that you have time in your motivation letter, and list other commitments!
+- Did you reference projects you coded WITH links to repos or provided code in your proposal?
+- Did you disclose use of AI in developing your proposal following IOOS GSoC' [AI Policies](#ai-policies)?
 
 ### Submitting your application
 
