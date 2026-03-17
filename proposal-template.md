@@ -1,4 +1,4 @@
-IOOS example GSoC proposal template.  
+_IOOS example GSoC proposal template_ 
 
 _Please also refer to our [Contributor Guidance](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md) for key additional information about IOOS' GSoC application policies, in particular [What makes a good GSoC proposal?](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md#what-makes-a-good-gsoc-proposal)_
 
@@ -97,21 +97,24 @@ Please provide brief answers to the following questions:
 * What is your preferred method to communicate with your project mentors during GSoC (community bonding period & coding period).  What formats are you able to use: virtual check-in meetings, Slack, GitHub issue, email?
 * Is there anything your mentors should know about your previous committments, other work schedule, or studies during GSoC that you'll need to work around during GSoC?  How do you plan to honor these committments while also completing your GSoC project?  Please provide this info to ensure your mentors are aware and can be most effective in supporting you.
 
-## Use of AI in your proposal
+## AI Use Disclosure
+ 
+In the sub-sections below, please disclose your use of AI for each part of the proposal development process - proposal writing and coding/development.  Describe which AI tool(s) were used, what your workflow was for using them, potential copyright questions, etc, noting the specific rules for each area below.  
 
-#### Describe use of AI in proposal development
 
-The use of any AI-tool during the proposal writing should be restrict to "AI assisted copy editing" purposes.
-We define the term "AI assisted copy editing" as AI-assisted improvements to human-generated texts for readability and style, and to ensure that the texts are free of errors in grammar, spelling, punctuation and tone.
-These AI-assisted improvements should not include generative editorial work and autonomous content creation.
+#### Use of AI in proposal development
 
-Please always disclose if AI was used in the proposal writing process in any way.
-One must be ready to answer any questions mentors may have.
-For example, the prompt used, the AI agent, possible copyright questions, etc.
+For proposal writing, please note that the use of any AI-tool during the proposal writing should be restrict to "AI assisted copy editing" purposes.  We define the term "AI assisted copy editing" as AI-assisted improvements to human-generated texts for readability and style, and to ensure that the texts are free of errors in grammar, spelling, punctuation and tone. These AI-assisted improvements should not include generative editorial work and autonomous content creation.  
 
-#### Describe use of AI in code developed for your proposal
+Disclose specifically how AI was used in the proposal writing procoess, keeping in mind that one must be ready to answer any questions mentors may have about the proposal content.
 
-Describe what AI tools, if any, were used in developing code in your proposal/application, and the approach you used while using AI, including how you tested or otherwise evaluated the AI code output to ensure you understand how it works and would be able to edit/maintain it in the role of an open source contributor.  
+
+#### Use of AI in code developed for your proposal
+
+For code, describe what AI tools, if any, were used in developing code in your proposal/application, the approach you used to leverage the AI (deployment style - agentic/non-agentic, interaction patterns/prompts used generally), how you validated the functonality of the changes, and how you confirmed the code integrates properly with the existing codebase/API.  
+
+Specifically, how you tested, comprehended, or otherwise evaluated the AI-produced code to ensure you understand: how it works, how it integrates with the existing code base from a functionality standpoint, whether/how it aligns with coding standards of the existing code base, and how you would be able to edit/maintain it in the role of an open source contributor alongside future changes to the underlying code base/API/library.
+
 
 ## Appendix
 

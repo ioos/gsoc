@@ -23,12 +23,12 @@ Best practices for GSoC communication during application period:
 1. The [GSoC Contributor Guide](https://google.github.io/gsocguides/student/am-i-good-enough#) provides a good overview what GSoC's goals are and if you are likely to be a good fit for the program.
 1. Please note that IOOS values creativity, intelligence and enthusiasm above specific knowledge of the libraries or algorithms we use.  We think that motivated students who are willing and eager to learn are more valuable than anything else.
 1. Get to know IOOS: to get an idea for the IOOS Data Management and Cyberinfrastructure (DMAC) Community (where most of our GSoC mentors and projects are drawn from) and the work that we do, visit the 'ioos_tech' Google Group: https://groups.google.com/g/ioos_tech.
-2. The [Open Source Guide](https://opensource.guide/how-to-contribute/) eneral background on open source projects and how to contribute
+2. The [Open Source Guide](https://opensource.guide/how-to-contribute/) general background on open source projects and how to contribute
 
 
 ### Proposal Template
 
-We provide a markdown application/proposal template that should be used to start your personal application/project proposal:
+We provide a markdown application/proposal template that should be used as the basis for your application/project proposal:
 
 **https://github.com/ioos/gsoc/blob/main/proposal-template.md**  
 
@@ -69,7 +69,7 @@ The goal of the application period should be to understand the challenge present
 
 ### Submitting your application
 
-Submit your completed application to the Google Summer of Code website directly, following all of the guidelines.  This is the only way an applications will be accepted for GSoC.
+Submit your completed application to the Google Summer of Code website directly, following all of the guidelines.  This is the only way an application will be accepted for GSoC.
 
 ### AI Policies
 
