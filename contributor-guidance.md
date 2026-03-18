@@ -19,11 +19,25 @@ Best practices for GSoC communication during application period:
 ## Applying to Google Summer of Code & IOOS
 
 ### Eligibility & Selection Criteria
-1. Refer to the [GSoC Rules (Section 7.1 Eligibility)](https://summerofcode.withgoogle.com/rules) to determine if you are eligibile for GSoC
+1. First, refer to the [GSoC Rules - Section 7.1 Eligibility](https://summerofcode.withgoogle.com/rules) to determine if you are eligibile for GSoC
 1. The [GSoC Contributor Guide](https://google.github.io/gsocguides/student/am-i-good-enough#) provides a good overview what GSoC's goals are and if you are likely to be a good fit for the program.
 1. Please note that IOOS values creativity, intelligence and enthusiasm above specific knowledge of the libraries or algorithms we use.  We think that motivated students who are willing and eager to learn are more valuable than anything else.
 1. Get to know IOOS: to get an idea for the IOOS Data Management and Cyberinfrastructure (DMAC) Community (where most of our GSoC mentors and projects are drawn from) and the work that we do, visit the 'ioos_tech' Google Group: https://groups.google.com/g/ioos_tech.
 2. The [Open Source Guide](https://opensource.guide/how-to-contribute/) general background on open source projects and how to contribute
+
+
+### AI Policies
+
+We understand that the use of LLMs for development is evolving fast.
+Participants should not make use of AI for large portions of their projects, code, or any interaction with mentors and members of the organization.
+
+Participants should follow these guidelines:
+
+1. Do not use AI generated comments in any issues or PRs, use your own voice.
+1. Always disclose if AI was used in the code.
+1. Be ready to explain the code and/or answer any questions about the prompt, agent, or configuration that generate the code.
+1. Note that some projects may reject any AI code due to copyright concerns.
+1. Some projects may have additional policies on AI usage. Be sure to check with your mentor what they are.
 
 
 ### Proposal Template
@@ -33,10 +47,10 @@ We provide a markdown application/proposal template that should be used as the b
 **https://github.com/ioos/gsoc/blob/main/proposal-template.md**  
 
 Guidelines for applying: 
-1. Please first ensure you are eligible for GSoC according to the [GSoC Rules - Section 7.1 Eligibility](https://summerofcode.withgoogle.com/rules)
 1. Please complete each section in the proposal template in your proposal.  Additional content is OK to include beyond sections in the template.
 1. We prefer you not reorder or reformat sections for consistency in reviewing incoming applications.
 1. It is OK to submit an application in PDF format with diagrams, images, and/or code examples.
+1. Please review our AI Policies and ensure you complete the [AI Use Disclosure](https://github.com/ioos/gsoc/blob/main/proposal-template.md#ai-use-disclosure) section of the proposal template 
 
 
 ### What makes a good GSoC proposal?
@@ -70,16 +84,3 @@ The goal of the application period should be to understand the challenge present
 ### Submitting your application
 
 Submit your completed application to the Google Summer of Code website directly, following all of the guidelines.  This is the only way an application will be accepted for GSoC.
-
-### AI Policies
-
-We understand that the use of LLMs for development is evolving fast.
-Participants should not make use of AI for large portions of their projects, code, or any interaction with mentors and members of the organization.
-
-Participants should follow these guidelines:
-
-1. Do not use AI generated comments in any issues or PRs, use your own voice.
-1. Always disclose if AI was used in the code.
-1. Be ready to explain the code and/or answer any questions about the prompt, agent, or configuration that generate the code.
-1. Note that some projects may reject any AI code due to copyright concerns.
-1. Some projects may have additional policies on AI usage. Be sure to check with your mentor what they are.

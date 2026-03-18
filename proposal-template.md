@@ -45,7 +45,7 @@ Link to the project idea your application pertains to from the IOOS Organization
 ### Technical Description
 
 More detailed description of your project.
-**Should** include all technical details of the projects for example:
+The description **should** include all technical details of the projects, for example:
 - the libraries involved,
 - the languages and techniques you will use,
 - some pieces of the code you want to change,
