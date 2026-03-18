@@ -99,7 +99,7 @@ Please provide brief answers to the following questions:
 
 ## AI Use Disclosure
  
-In the sub-sections below, please disclose your use of AI for each part of the proposal development process - proposal writing and coding/development.  Describe which AI tool(s) were used, what your workflow was for using them, potential copyright questions, etc, noting the specific rules for each area below.  
+In the sub-sections below, please disclose your use of AI for each part of the proposal development process - proposal writing and coding/development, noting the [AI Policies](https://github.com/ioos/gsoc/blob/main/contributor-guidance.md#ai-policies) in our Contributor Guidance.  Describe which AI tool(s) were used, what your workflow was for using them, potential copyright questions, etc, noting the specific rules for each area below.  
 
 
 #### Use of AI in proposal development
