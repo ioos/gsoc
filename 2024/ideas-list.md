@@ -15,5 +15,3 @@ Deadline for mentoring organization application: Feb 6, 2024.
 | [OCSMesh improvement](https://github.com/noaa-ocs-modeling/OCSmesh) | OCSMesh is a Python package for processing DEM data into georeferenced unstructured meshes using the [jigsaw-python](https://github.com/dengwirda/jigsaw-python) library. | [ioos/gsoc#58](https://github.com/ioos/gsoc/issues/58) | 350 hours |
 | [Searvey improvement](https://github.com/oceanmodeling/searvey) | Searvey aims to provide the following functionality: Unified catalogue of observational data including near real time (WIP), Real time data analysis/clean up to facilitate comparison with numerical models (WIP), On demand data retrieval from multiple sources | [ioos/gsoc#59](https://github.com/ioos/gsoc/issues/59) | 175 hours |
 | [Model subsetting tool]() | This project enhances preliminary code for subsetting large unstructured-grid numerical model outputs on cloud platforms, making forecast data more accessible through widely used open-source Python libraries.  | [ioos/gsoc#57](https://github.com/ioos/gsoc/issues/57) | 350 hours |
-
-

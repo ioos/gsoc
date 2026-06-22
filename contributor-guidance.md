@@ -1,14 +1,14 @@
 # IOOS GSoC Contributor Guide
 
-## Overview 
+## Overview
 
-Google typically announces GSoC mentoring organizations in late February per [GSoC program timeline](https://developers.google.com/open-source/gsoc/timeline).  
+Google typically announces GSoC mentoring organizations in late February per [GSoC program timeline](https://developers.google.com/open-source/gsoc/timeline).
 
 Interested GSoC applicants should:
 
 1. **Wait until the annual GSoC Org announcement** is made before committing significant time towards any of our draft project ideas, and
 1. If IOOS is accepted, consult the projects listed in our project ideas list, linked from the [README](https://github.com/ioos/gsoc/blob/main/README.md) to match with your skills and interests
-1. Reach out to the mentors listed for each project idea to complete assessments/evaluations linked within and/or initiate dialog on developing a project proposal with their assitance (as available)
+1. Reach out to the mentors listed for each project idea to complete assessments/evaluations linked within and/or initiate dialog on developing a project proposal with their assistance (as available)
 
 Best practices for GSoC communication during application period:
 1. It's OK to express interest in a project idea by commenting on the GitHub issue directly, however most communication and dialog with mentors should be done via email for privacy reasons; plagiarism in GSoC is real and mentors should not be expected to reply to every GitHub issue comment
@@ -44,13 +44,13 @@ Participants should follow these guidelines:
 
 We provide a markdown application/proposal template that should be used as the basis for your application/project proposal:
 
-**https://github.com/ioos/gsoc/blob/main/proposal-template.md**  
+**https://github.com/ioos/gsoc/blob/main/proposal-template.md**
 
-Guidelines for applying: 
+Guidelines for applying:
 1. Please complete each section in the proposal template in your proposal.  Additional content is OK to include beyond sections in the template.
 1. We prefer you not reorder or reformat sections for consistency in reviewing incoming applications.
 1. It is OK to submit an application in PDF format with diagrams, images, and/or code examples.
-1. Please review our AI Policies and ensure you complete the [AI Use Disclosure](https://github.com/ioos/gsoc/blob/main/proposal-template.md#ai-use-disclosure) section of the proposal template 
+1. Please review our AI Policies and ensure you complete the [AI Use Disclosure](https://github.com/ioos/gsoc/blob/main/proposal-template.md#ai-use-disclosure) section of the proposal template
 
 
 ### What makes a good GSoC proposal?
@@ -60,14 +60,14 @@ An ideal GSoC proposal should include the following:
 2. Personal Information, including contact info, timezone
 3. A link or inline/embedded code that answers any assessment/evaluation mentors have included in the relevant project idea
 4. Full description of your proposed project, including timeline and planned deliverables (see the [proposal-template.md](https://github.com/ioos/gsoc/blob/main/proposal-template.md) for a recommended format)
-5. Your schedule during the GSoC period and any prior committments that might affect your availability (school exams, other work committments, travel, etc)
+5. Your schedule during the GSoC period and any prior commitments that might affect your availability (school exams, other work commitments, travel, etc)
 6. Disclosure and description of how AI was used in developing your code example(s) and/or proposal text - please refer to our [AI Policies](#ai-policies)
 
 ### During the application phase
 
-It is important as an applicant to follow instructions posted by mentors in the relevant project idea: communication methods, expectations for engagement during the application period, completion of any contibutor evaluation/assessment challenge included and/or resolving open issues in project repositories that are linked in the project idea.
+It is important as an applicant to follow instructions posted by mentors in the relevant project idea: communication methods, expectations for engagement during the application period, completion of any contributor evaluation/assessment challenge included and/or resolving open issues in project repositories that are linked in the project idea.
 
-The goal of the application period should be to understand the challenge presented in the project idea, determine the intersection with your skills/abilities/interests and then to demonstrate within your proposal a well thought-out, achievable, and appropriate (according to the mentors' feedback to you) solution to the problem.  The proposal provides the relevant technical detail, proposed approach to, and schedule for developing the solution during the coding period.    
+The goal of the application period should be to understand the challenge presented in the project idea, determine the intersection with your skills/abilities/interests and then to demonstrate within your proposal a well thought-out, achievable, and appropriate (according to the mentors' feedback to you) solution to the problem.  The proposal provides the relevant technical detail, proposed approach to, and schedule for developing the solution during the coding period.
 
 *Here are some tips to help you with developing your application/proposal:*
 
