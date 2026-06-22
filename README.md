@@ -8,9 +8,9 @@ IOOS is looking for new project ideas for [GSoC 2026](https://summerofcode.withg
 
 [**2026 Mentors: submit your project ideas here**](https://github.com/ioos/gsoc/issues/new?template=gsoc-project-proposal.yml)
 
-**IOOS GSoC Mentor Guide** (new for 2026): resources and references about the GSoC mentoring experience, IOOS' recommendations and best practices for mentors, and other helpful information are available in [IOOS' GSoC Mentor Guide](https://github.com/ioos/gsoc/blob/main/mentor-guidance.md).  
+**IOOS GSoC Mentor Guide** (new for 2026): resources and references about the GSoC mentoring experience, IOOS' recommendations and best practices for mentors, and other helpful information are available in [IOOS' GSoC Mentor Guide](https://github.com/ioos/gsoc/blob/main/mentor-guidance.md).
 
-Further questions about the GSoC mentoring experience can be directed to: 
+Further questions about the GSoC mentoring experience can be directed to:
 * former IOOS mentors - see [IOOS and Google Summer of Code](#ioos-and-google-summer-of-code) for a list of past projects, contributors and mentors,
 * IOOS' GSoC Org [administrators](mailto:micah.wengren@noaa.gov,mathew.biddle@noaa.gov,ocefpaf@gmail.com), or
 * the [ioos_tech](https://groups.google.com/g/ioos_tech) mailing list (post your questions directly or search for past GSoC communications).
@@ -23,7 +23,7 @@ Further questions about the GSoC mentoring experience can be directed to:
 - **Contributor Guidance** (for contributors planning to apply):  https://github.com/ioos/gsoc/blob/main/contributor-guidance.md
 - **Contributor Proposal Template:** https://github.com/ioos/gsoc/blob/main/proposal-template.md
 
-**Note to students:** Google will announce accepted organizations on Feb 19, 2026.  Please hold off on contributing any to any of our project ideas until we know whether we've been accepted or not for this year.  
+**Note to students:** Google will announce accepted organizations on Feb 19, 2026.  Please hold off on contributing any to any of our project ideas until we know whether we've been accepted or not for this year.
 
 ### About U.S. IOOS&reg; - Eyes on the Ocean, Coasts, and Great Lakes&trade;
 
@@ -45,7 +45,7 @@ IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/
 
 ### IOOS and Google Summer of Code
 
-IOOS has participated as a GSoC mentoring organization for several years.  Follow the links below for more information on past years' projects, contributors, and mentors. 
+IOOS has participated as a GSoC mentoring organization for several years.  Follow the links below for more information on past years' projects, contributors, and mentors.
 
 |**Year**|**GSoC Organization Pages**|**GSoC Student Project Results Pages**|  **Project Ideas List** |
 |------------|---------------|---------|---------|
