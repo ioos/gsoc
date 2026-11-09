@@ -11,9 +11,7 @@ IOOS is looking for new project ideas for [GSoC 2026](https://summerofcode.withg
 **IOOS GSoC Mentor Guide** (new for 2026): resources and references about the GSoC mentoring experience, IOOS' recommendations and best practices for mentors, and other helpful information are available in [IOOS' GSoC Mentor Guide](https://github.com/ioos/gsoc/blob/main/mentor-guidance.md).
 
 Further questions about the GSoC mentoring experience can be directed to:
-* former IOOS mentors - see [IOOS and Google Summer of Code](#ioos-and-google-summer-of-code) for a list of past projects, contributors and mentors,
-* IOOS' GSoC Org [administrators](mailto:micah.wengren@noaa.gov,mathew.biddle@noaa.gov,ocefpaf@gmail.com), or
-* the [ioos_tech](https://groups.google.com/g/ioos_tech) mailing list (post your questions directly or search for past GSoC communications).
+* former IOOS mentors - see [IOOS and Google Summer of Code](#ioos-and-google-summer-of-code) for a list of past projects, contributors and mentors
 
 
 ###  IOOS' 2026 GSoC Organization Application Materials
@@ -40,7 +38,7 @@ The [IOOS Data Management and Cyberinfrastructure](https://ioos.noaa.gov/project
 
 #### Community Events
 
-IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), bi-annual code sprints ([2019](https://www.glos.us/code-sprint/), [2022](https://ioos.github.io/ioos-code-sprint/2022/), [2024](https://ioos.github.io/ioos-code-sprint/2024/), and upcoming in [2026](https://ioos.github.io/ioos-code-sprint/2026/)), monthly DMAC technical webinars, and maintains virtual communications through our ['ioos_tech'](https://groups.google.com/g/ioos_tech) mailing list and other platforms such as [GitHub](https://github.com/ioos) and Slack.
+IOOS hosts annual DMAC [data management meetings](https://ioos.noaa.gov/project/dmac/), bi-annual code sprints ([2019](https://www.glos.us/code-sprint/), [2022](https://ioos.github.io/ioos-code-sprint/2022/), [2024](https://ioos.github.io/ioos-code-sprint/2024/), and upcoming in [2026](https://ioos.github.io/ioos-code-sprint/2026/)), and monthly DMAC technical webinars, and other platforms such as [GitHub](https://github.com/ioos) and Slack.
 
 
 ### IOOS and Google Summer of Code
